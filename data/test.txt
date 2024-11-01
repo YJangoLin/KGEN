@@ -1,0 +1,899 @@
+lungs	be	hyperinflated
+epicardial fat pads	status	prominent
+calcified granuloma	associate	histoplasmosis
+calcified granuloma	differential diagnosbe	tuberculosis
+pulmonary hypertension	represent	right ventricular enlargement
+granuloma	stability	stable
+calcified granuloma	size	3 mm
+diaphragm	be	elevated
+fibrosis	be present in	lungs
+lung volumes	status	increased
+calcified granuloma	located in	right base
+lung markings	be	not increased
+alveolar opacities	be present in	lungs
+cardiac borders	be	distinct
+heart	size	borderline
+Patchy bibasilar opacities	may be	atelectasis
+rib notching	affects	ribs
+thoracic aorta	condition	tortuosity
+airspace disease	appearance	right upper lobe
+heart	size	borderline
+chronic lung disease	type	COPD
+hilar regions	show	no calcified lymph nodes
+granulomatous disease	cause	tuberculosis
+pulmonary vasculature	appearance	prominent
+Bibasilar airspace opacities	be	present
+interstitial markings	be	not increased
+pulmonary vasculature	appearance	normal
+atelectasis	appearance	right base
+scarring	appearance	bilateral base
+hemidiaphragm	condition	tenting
+aorta	status	calcified
+consolidation	appearance	right lower lobe
+atelectasis	appearance	basilar
+scarring	appearance	right base
+lung transplant	affects	lungs
+Right chest tube	show	interval removal
+lung volumes	be	not decreased
+pulmonary arteries	status	prominent
+heart	have	normal contour
+pleural effusion	size	small
+thoracic spine	condition	osteophytes
+atelectasis	appearance	left lower lobe
+mediastinal structures	be	in normal position
+hilar lymph node	condition	calcified
+spine	condition	degenerative changes
+Interstitial edema	be	probable mild
+pulmonary fibrosis	may be	present
+right lower lobe	have	opacity
+lungs	be	clear
+bone density	status	osteopenia
+calcified lymph nodes	appearance	mediastinal
+retrosternal clear space	be	narrowed
+atherosclerosis	severity	moderate
+aorta	condition	tortuous
+lungs	condition	hyperexpanded
+calcified granuloma	size	1.7 cm
+aortic aneurysm	presence	known
+cardiophrenic recesses	be	not obscured
+airspace consolidation	be	absent
+aorta	have	aneurysmal enlargement
+lungs	condition	hyperinflated
+lung volumes	cause	bronchovascular crowding
+pectus excavatum	status	present
+consolidation	presence	no
+atelectasis	appearance	right base
+aorta	condition	aneurysm
+calcified lymph nodes	stability	stable
+aorta	condition	atherosclerotic
+calcified granuloma	appearance	intrapulmonary
+cardiothoracic ratio	be	not increased
+Heart size	be	normal
+AICD	presence	yes
+Bibasilar airspace opacities	be	present
+granuloma	type	calcified
+aorta	appearance	descending thoracic
+pacemaker	appearance	right chest wall
+epicardial fat pad	status	prominent
+atelectasis	be	present
+pulmonary edema	represent	cephalization of vessels
+heart	size	mildly enlarged
+heart size	status	normal
+pleural effusion	size	small
+Heart size	be	normal
+lung apices	be	well-aerated
+left lower lobe	have	opacity
+lung apex	show	scarring
+lungs	condition	hypoventilated
+Pneumothorax	be	not seen
+clavicle	condition	resection
+lungs	status	clear
+airspace disease	appearance	right upper lobe
+calcified granuloma	size	4 mm
+calcified granuloma	size	1.7 cm
+calcified granuloma	clinical significance	benign
+thoracic spine	condition	degenerative changes
+sternotomy wires	presence	yes
+pulmonary edema	be	present
+lungs	condition	low volume
+scarring	appearance	right base
+lungs	condition	hypoinflated
+mediastinal width	be	normal
+main pulmonary arteries	be	normal
+pulmonary edema	be	absent
+Heart size	be	normal
+pleural effusion	appearance	left
+mediastinal contour	appearance	widened
+Right subclavian central venous catheter	show	interval removal
+pneumothorax	status	present
+subcutaneous emphysema	be present in	soft tissues
+interstitial markings	appearance	prominent
+atrial enlargement	appearance	left
+Congestive heart failure	associate	basilar pulmonary interstitial edema
+calcified granuloma	differential diagnosbe	includes sarcoidosis
+COPD	represent	hyperinflated lungs
+azygos fissure	presence	yes
+vascular congestion	appearance	central
+infiltrates	presence	no
+heart	have	left ventricular enlargement
+bowel gas pattern	be	abnormal
+lungs	condition	emphysematous
+ICD	presence	yes
+lung scarring	appearance	left base
+calcified granuloma	differential diagnosbe	tuberculosis
+focal consolidation	be	no
+central venous catheter	be	present
+Bibasilar airspace opacities	represent	atelectasis
+ICD	presence	yes
+lungs	condition	well-expanded
+interstitial markings	be	present
+alveolar edema	affects	lungs
+lung scarring	appearance	right upper lobe
+Pneumothorax	be	not seen
+pleural plaques	associate	asbestos exposure
+fracture	appearance	right humeral
+calcified granuloma	number	multiple
+lungs	condition	clear
+mediastinal contour	appearance	normal
+granulomatous disease	represent	calcified lymph nodes
+pleural effusion	be	present
+atelectasis	appearance	left base
+calcified granuloma	appearance	left paraesophageal
+lungs	condition	clear
+mitral annular calcification	be	present
+calcified granuloma	associate	surrounding inflammation
+main pulmonary arteries	be	normal
+heart	have	cardiomegaly
+lung bases	be	free of effusions
+XXXX	be	normal
+cardiomediastinal silhouette	appearance	normal
+vascular congestion	appearance	central
+pleural effusion	status	absent
+Left lung XXXX	be	clear
+pacemaker	presence	yes
+PICC line	presence	yes
+hiatal hernia	presence	yes
+heart	have	left ventricular enlargement
+calcified granuloma	appearance	unchanged
+calcified lymph nodes	be	present
+Bibasilar airspace opacities	represent	infiltrates
+pacemaker	presence	yes
+osteopenia	be	present
+lung volumes	be	normal
+lungs	condition	low volumes
+aorta	condition	calcified
+ICD	presence	yes
+Bibasilar airspace opacities	be	present
+calcified granuloma	located in	right costophrenic angle
+scarring	appearance	biapical
+pleural plaques	be	present
+lung bases	show no	atelectasis
+Pulmonary vasculature	be	normal
+diaphragm	condition	elevated
+interstitial markings	be	normal
+Left pleural effusion	be	small
+ICD	appearance	left chest
+sternotomy wires	status	intact
+hilar shadows	be	normal
+heart	size	normal
+lung apices	be	clear
+pulmonary edema	type	interstitial
+tuberculosis	affects	lungs
+hiatal hernia	be	present
+bony structures	be	intact
+calcified lymph nodes	number	single
+calcified granuloma	stability	unchanged
+pacemaker	be	present
+heart	size	mildly enlarged
+cardiothoracic ratio	be	within normal limits
+pacemaker	appearance	left chest wall
+central venous catheter	presence	yes
+calcified granuloma	differential diagnosbe	prior tuberculosis
+granulomatous disease	cause	sarcoidosis
+Bibasilar opacities	be	present
+calcified granuloma	located in	left apex
+lung apices	show no	nodules
+tuberculosis	status	previous
+Acute osseous abnormality	be	not identified
+mediastinal contours	be	not obscured
+lungs	condition	low volumes
+tracheal air shadow	be	centrally located
+pulmonary nodules	be	present
+emphysema	appearance	upper lobes
+Mediastinal contour	be	normal
+Right pleural effusion	be	small
+ribs	have	fractures
+pleural effusion	be	present
+Right pleural effusion	be	larger than left
+vertebral body	show	compression fracture
+calcified granuloma	located in	right apex
+interstitial pattern	show	no reticulations
+PICC line	appearance	left arm
+pneumonia	be	absent
+consolidation	presence	yes
+trachea	be	midline
+mediastinum	show	normal width
+scarring	appearance	right upper lobe
+calcified lymph nodes	be	present
+osseous structures	condition	intact
+lungs	have	interstitial markings
+Pulmonary vasculature	be	normal
+aorta	appearance	descending thoracic
+heart	size	mildly enlarged
+atelectasis	appearance	bilateral base
+granulomatous disease	represent	calcified lymph nodes
+pneumothorax	be	no
+sternotomy wires	status	intact
+Chronic interstitial lung disease	show	no change
+granuloma	type	calcified
+tracheal air column	be	patent
+sternotomy wires	be	present
+mediastinal contours	be	not obscured
+calcified granuloma	appearance	intrapulmonary
+calcified granuloma	clinical significance	requires monitoring
+bronchial walls	be	normal
+aorta	have	atherosclerotic calcifications
+tracheal air column	be	not deviated
+pleural effusion	presence	small
+AICD	appearance	left chest wall
+aortic valve	status	prosthetic
+mediastinum	be	normal
+calcified granuloma	associate	previous infection
+trachea	be	not deviated
+PICC line	presence	yes
+sternotomy	status	post
+scarring	appearance	left base
+hilar lymph nodes	condition	calcified
+pleural surfaces	show	no calcifications
+cholecystectomy clips	presence	yes
+pulmonary vasculature	be	not engorged
+pleural effusion	presence	bilateral
+atelectasis	appearance	bibasilar
+aortic arch	be	normal
+bronchial wall thickening	appearance	diffuse
+atelectasis	appearance	left base
+COPD	presence	yes
+pulmonary infarction	affects	lungs
+lung volumes	status	normal
+bronchial wall thickening	presence	yes
+pacemaker	presence	yes
+pleural plaques	associate	asbestos exposure
+atherosclerosis	severity	moderate
+granuloma	appearance	right hilum
+ICD leads	be	present
+airspace disease	appearance	right upper lobe
+chronic lung disease	type	COPD
+pulmonary hypertension	represent	enlarged pulmonary arteries
+thoracic spine	condition	DISH
+calcified granuloma	located in	right middle lobe
+aorta	condition	calcified
+heart	size	mildly enlarged
+soft tissues	show no	abnormality
+mitral annular calcification	be	present
+pulmonary vasculature	appearance	congested
+costophrenic recesses	be	clear
+dialysis catheter	type	dual-lumen
+sternotomy wires	presence	yes
+pleural plaques	associate	asbestos exposure
+clavicle	have	deformity
+soft tissues	be	unremarkable
+pulmonary vasculature	be	normal in distribution
+air bronchograms	appearance	right lower lobe
+pacemaker	appearance	right chest wall
+reticular opacities	be present in	lungs
+pneumothorax	presence	no
+consolidation	appearance	right upper lobe
+pulmonary vasculature	appearance	prominent
+pulmonary vasculature	be	not redistributed
+pulmonary arteries	appearance	enlarged
+granuloma	appearance	right upper lobe
+azygoesophageal recess	be	not widened
+trachea	appearance	deviated
+clavicle	have	deformity
+diaphragm	condition	flattened
+scoliosis	severity	mild
+lung nodule	appearance	left upper lobe
+cardiomediastinal silhouette	appearance	enlarged
+Right subclavian central venous catheter	show	interval removal
+cardiophrenic recesses	be	not obscured
+aorta	condition	tortuous
+aorta	have	atherosclerotic changes
+Left pleural effusion	be	small
+hiatus hernia	size	moderate
+COPD	presence	yes
+costophrenic angles	be	sharp
+costophrenic angles	appearance	sharp
+atelectasis	appearance	right middle lobe
+tracheal air column	be	of normal width
+hilar lymph node	appearance	right
+rib fractures	appearance	right
+vertebral body	condition	compression fracture
+Cardiomediastinal silhouette	be	enlarged
+Pneumothorax	be	not present
+hemidiaphragm	condition	tenting
+right atrial enlargement	affects	heart
+cardiopulmonary abnormality	be	absent
+chronic lung disease	type	COPD
+pleural thickening	appearance	left
+Left pleural effusion	be	small
+Spine	show	XXXX deformities
+right upper lobe	have	opacity
+aortic aneurysm	may be	present
+Bilateral costophrenic XXXX	show	blunting
+right middle lobe	have	opacity
+coronary artery	presence	stents
+Right lung base	show	airspace disease
+heart	size	borderline
+pulmonary veins	show	normal caliber
+calcified granuloma	appearance	left upper lobe
+calcified granuloma	located in	right hilar region
+mediastinum	appearance	normal
+lungs	condition	hyperexpanded
+rib fractures	appearance	left
+infiltrate	appearance	left lower lobe
+pleural thickening	appearance	right apex
+pneumonia	be	absent
+epicardial fat pads	status	prominent
+pleural effusion	status	present
+pulmonary vascularity	be	normal
+ICD	appearance	left chest
+calcified lymph nodes	appearance	mediastinal
+pulmonary vessels	be	not tortuous
+pleural effusion	presence	no
+lung fields	show	normal translucency
+consolidation	presence	no
+diaphragmatic contours	be	smooth
+Bibasilar airspace opacities	be	present
+vascular congestion	appearance	central
+central venous catheter	be	present
+pleural effusion	be	absent
+granulomatous disease	represent	calcified lymph nodes
+pleural thickening	be	present
+Both costophrenic XXXX	be	blunted
+Bibasilar airspace opacities	represent	infiltrates
+chest wall	show	no soft tissue masses
+Bibasilar airspace opacities	be	present
+emphysema	severity	severe
+aorta	condition	tortuous
+right atrial enlargement	affects	heart
+heart	size	normal
+pleural effusion	presence	minimal
+lung bases	be	well-aerated
+heart	size	mildly enlarged
+granuloma	number	single
+bronchial wall thickening	status	present
+pneumothorax	status	absent
+Bibasilar opacities	represent	consolidation
+emphysema	severity	severe
+granuloma	appearance	left lower lobe
+COPD	presence	yes
+mediastinal structures	be	normal
+cardiac silhouette	be	normal
+spine	condition	scoliosis
+calcified granuloma	clinical significance	benign
+pulmonary vessels	be	normal
+pleural effusion	appearance	left
+costophrenic angles	appearance	sharp
+granuloma	type	calcified
+lungs	condition	low volume
+dialysis catheter	type	dual-lumen
+bronchiectasis	presence	yes
+trachea	appearance	deviated
+atelectasis	appearance	bibasilar
+Right pleural effusion	be	large
+atelectasis	appearance	right base
+atelectasis	be	present
+cardiac silhouette	show	normal contour
+emphysema	presence	yes
+aortopulmonary window	be	widened
+hilar lymph nodes	be	calcified
+aorta	condition	atherosclerotic
+aorta	condition	calcified
+pulmonary arteries	appearance	normal
+calcified granuloma	located in	left costophrenic angle
+costophrenic angles	be	clear
+pleural thickening	appearance	apical
+Right upper lobe	show	pleural thickening
+air trapping	be	absent
+pulmonary vasculature	be	normal in distribution
+mediastinal contour	appearance	normal
+lung apices	be	free of fibrosis
+CABG	status	post
+calcified granuloma	clinical significance	requires monitoring
+vertebral bodies	have	wedge deformities
+granulomatous disease	cause	tuberculosis
+pleural effusion	presence	no
+diaphragm	appearance	elevated
+pneumothorax	presence	no
+calcified granuloma	number	single
+lung scarring	appearance	left base
+aorta	condition	aneurysm
+Pulmonary vasculature	be	normal
+heart size	be	normal
+endotracheal tube	be present in	trachea
+heart	size	enlarged
+posterior mediastinum	show no	masses
+calcified granuloma	appearance	stable
+cardiac silhouette	be	normal in contour
+calcified granuloma	associate	tuberculosis
+pneumothorax	be	absent
+heart	size	within normal limits
+kyphosis	be	present
+Right basilar consolidation	show	improvement
+mediastinal structures	show	no masses
+interstitial markings	be	present
+kyphosis	be	present
+atelectasis	be present in	lung bases
+heart	have	cardiomegaly
+aortic valve	status	prosthetic
+heart	size	normal
+bony structures	be	intact
+lungs	condition	COPD
+cardiomediastinal silhouette	be	normal in size
+interstitial markings	status	increased
+tracheal air shadow	be	midline
+heart	size	borderline
+pulmonary veins	be	enlarged
+Bibasilar airspace opacities	be	present
+airspace disease	type	patchy
+pulmonary vasculature	be	not redistributed
+thoracic spine	have	spondylosis
+lung apices	be	well-aerated
+granuloma	appearance	right lower lobe
+pulmonary vasculature	be	normal
+heart	size	normal
+calcified granuloma	appearance	left upper lobe
+Congestive heart failure	associate	bilateral pleural fluid
+consolidation	affects	lung lobes
+air bronchograms	status	present
+consolidation	presence	no
+Left base airspace disease	show	clearing
+bronchial walls	be	not thickened
+aortic aneurysm	may be	present
+pneumatoceles	be present in	lungs
+lung cysts	be present in	lungs
+lungs	condition	emphysema
+rib fractures	appearance	left
+granulomatous disease	represent	calcified lung nodules
+pulmonary vasculature	status	normal
+pulmonary hypertension	may be	present
+pleural thickening	appearance	right
+lungs	status	hyperinflated
+pleural thickening	appearance	left apical
+granuloma	appearance	right lower lobe
+heart	size	enlarged
+pulmonary vasculature	be	normal
+diaphragm	condition	eventration
+emphysema	presence	yes
+pleural effusion	be	present
+pacemaker	status	present
+Bilateral pleural effusions	be	present
+interstitial markings	status	increased
+kyphosis	be	present
+costophrenic angles	be	blunted
+kyphosis	be	present
+lung volumes	condition	increased
+mediastinal contours	be	normal
+pulmonary edema	presence	mild
+bronchial wall thickening	associate	chronic bronchitis
+aortic knob	be	prominent
+pacemaker	presence	yes
+calcified granuloma	size	small
+asbestos exposure	represent	pleural plaques
+lungs	have	chronic changes
+endotracheal tube	be present in	trachea
+cardiomegaly	presence	yes
+lungs	be	clear
+pleural effusion	status	absent
+consolidation	appearance	left lower lobe
+pacemaker	presence	yes
+pneumothorax	presence	no
+chronic lung disease	represent	coarsened interstitial markings
+pacemaker	presence	yes
+lungs	condition	well-aerated
+atelectasis	appearance	left base
+pleural effusion	appearance	bilateral
+scarring	appearance	lingula
+PICC line	appearance	left arm
+pleural effusion	appearance	bilateral
+aortic stent	be present in	aorta
+pleural effusion	be	absent
+mediastinal contours	status	stable
+calcified granuloma	differential diagnosbe	histoplasmosis
+infiltrates	presence	no
+calcified granuloma	size	3 mm
+cardiomegaly	severity	mild
+hilar enlargement	be	absent
+lung bases	be	clear
+soft tissue calcification	be present in	chest wall
+vertebral body	appearance	thoracic
+thoracic aorta	condition	ectasia
+Pneumothorax	be	not identified
+calcified granuloma	associate	histoplasmosis
+pacemaker	appearance	left chest
+calcified granuloma	appearance	right hilar
+scoliosis	severity	mild
+thoracic aorta	condition	atherosclerosis
+mediastinum	appearance	normal
+lymph nodes	calcification	left hilar
+calcified lymph nodes	stability	stable
+Pulmonary XXXX	be	normal
+pulmonary arterial hypertension	affects	pulmonary arteries
+pleural effusion	presence	small
+interstitial lung disease	presence	possible
+soft tissues	appearance	normal
+diaphragm	appearance	right
+diaphragm	appearance	normal
+lungs	condition	low volume
+pulmonary vascularity	status	normal
+pacemaker	be	present
+lung nodules	size	small
+cardiomegaly	cause	enlarged cardiac silhouette
+pleural effusion	size	small
+bone density	status	osteopenia
+mediastinum	be	widened
+hilar regions	be	unremarkable
+hiatal hernia	presence	yes
+calcified granuloma	size	2 cm
+calcified granuloma	be present in	lung
+Bibasilar airspace opacities	represent	infiltrates
+mitral valve	status	post surgery
+retrocardiac space	be	clear
+heart	size	mildly enlarged
+bony structures	appearance	intact
+azygoesophageal recess	be	normal
+aorta	have	atherosclerotic calcifications
+costophrenic sulci	be	not obliterated
+tracheal air column	be	not deviated
+hilar lymph nodes	appearance	right
+cardiothoracic ratio	be	not increased
+calcified granuloma	size	8 mm
+pleural thickening	be	present
+hilar lymph node	appearance	right
+rib fracture	presence	old
+lungs	show	normal bronchovascular markings
+COPD	associate	lung changes
+trachea	appearance	midline
+cardiomegaly	severity	mild
+granulomatous disease	represent	calcified lymph nodes
+aorta	condition	atherosclerotic
+lung granuloma	type	calcified
+heart	size	borderline
+lung volumes	be	adequate
+atherosclerosis	appearance	aorta
+Right costophrenic XXXX blunting	be	greater than left
+heart	size	enlarged
+calcified granuloma	clinical significance	requires monitoring
+osteophytes	appearance	thoracic spine
+bronchial wall thickening	appearance	diffuse
+bone lesions	be present in	spine
+pulmonary vasculature	appearance	congested
+hilar structures	be	normal
+coronary artery	presence	stents
+bronchi	appearance	normal
+right upper lobe	have	opacity
+calcified granuloma	clinical significance	requires monitoring
+atrial enlargement	appearance	right
+mediastinum	be	not widened
+Right lower lobe infiltrate	be	present
+calcified granuloma	associate	histoplasmosis
+main bronchi	be	patent
+central airways	be	normal
+right ventricular enlargement	affects	heart
+surgical clips	be	present
+PICC line	be	present
+lung volumes	status	decreased
+heart	size	within normal limits
+splenic calcification	be present in	left upper quadrant
+lungs	have	emphysematous changes
+aortic aneurysm	may be	present
+pleural effusion	appearance	right
+pleural plaques	be	present
+rib fracture	presence	old
+aorta	be	prominent
+Mediastinal contour	be	normal
+pulmonary vascularity	status	normal
+pleural effusion	appearance	right
+azygos vein	be	normal
+lung scarring	be	present
+cardiac borders	be	distinct
+Bilateral pleural effusions	be	XXXX
+Spine	show	osteopenia
+scoliosis	appearance	thoracic spine
+nodule	size	22 x 14 mm
+pleural effusion	presence	minimal
+interstitial markings	appearance	bilateral
+pleural effusion	be	present
+scoliosis	appearance	thoracic spine
+Pneumothorax	be	absent
+lung infiltrates	be	absent
+CABG	represent	markers
+T12-L1 vertebrae	condition	possible developmental anomaly
+hemidiaphragm	appearance	right
+costophrenic XXXX	be	clear
+mediastinum	be	unremarkable
+lungs	condition	emphysematous
+Bibasilar airspace opacities	represent	atelectasis
+calcified lymph nodes	appearance	left hilar
+scoliosis	be	present
+granuloma	number	single
+aorta	condition	calcified
+hiatal hernia	presence	yes
+vascular pedicle	be	normal
+lungs	condition	clear
+azygos fissure	be	present
+airspace disease	appearance	left lower lobe
+lung apices	be	well-aerated
+granulomatous disease	represent	calcified lymph nodes
+air bronchograms	status	present
+thoracic spine	have	osteophytes
+interstitial markings	be	not increased
+pneumomediastinum	be present in	chest
+Bibasilar airspace disease	be	present
+pacemaker	presence	yes
+interstitial markings	appearance	increased
+pleural effusion	size	small
+diaphragm	condition	flattened
+lung volumes	status	increased
+atelectasis	appearance	bibasilar
+honeycombing	be present in	lungs
+aorta	be	prominent
+aorta	condition	tortuous
+Multiple surgical clips	be	noted
+Right pleural effusion	be	small
+pleural thickening	appearance	apical
+diaphragm	be	elevated
+pleural plaques	appearance	bilateral
+heart	size	normal
+lungs	condition	hypoinflated
+central venous catheter	presence	yes
+pulmonary vasculature	status	normal
+lung fields	be	clear
+heart	size	enlarged
+azygoesophageal recess	be	normal
+emphysema	severity	severe
+AICD	presence	yes
+pulmonary edema	be	absent
+pulmonary nodules	be	absent
+pacemaker	presence	yes
+Heart size	be	normal
+emphysema	appearance	upper lobes
+Cardiomegaly	be	present without overt heart failure
+spine	condition	degenerative changes
+sternotomy wires	presence	yes
+granuloma	appearance	left upper lobe
+thoracic spine	have	osteophytes
+interstitial lines	be	normal
+ICD	presence	yes
+pulmonary artery	condition	enlarged
+trachea	appearance	midline
+granuloma	appearance	right hilum
+PICC line	appearance	right upper extremity
+pulmonary arteries	status	prominent
+scoliosis	severity	mild
+pulmonary vessels	show	normal tapering
+atelectasis	appearance	bibasilar
+rib fractures	appearance	right
+Pulmonary vasculature	be	normal
+Spine	show	XXXX deformities
+granulomatous disease	cause	histoplasmosis
+scarring	appearance	right base
+pacemaker	status	present
+pulmonary vasculature	appearance	normal
+osteopenia	be	present
+granuloma	size	large
+apical scarring	be	present
+PICC line	presence	yes
+soft tissues	be	symmetrical
+pulmonary arteries	show	normal branching
+lung transplant	affects	lungs
+pneumothorax	presence	no
+Acute osseous abnormality	be	not identified
+heart	size	enlarged
+ribs	condition	no acute fractures
+pleural effusion	status	absent
+cardiophrenic angles	be	free of masses
+cardiophrenic angles	be	sharp
+pulmonary hypertension	represent	right ventricular enlargement
+heart size	status	normal
+Right pleural effusion	be	small
+aorta	condition	atherosclerotic
+granuloma	size	small
+costophrenic sulci	be	deep
+COPD	presence	yes
+coronary artery	represent	stents
+lymph nodes	calcification	mediastinal
+atelectasis	appearance	right base
+vertebral bodies	have	wedge deformities
+thoracic aorta	condition	ectasia
+Pneumothorax	be	not identified
+atelectasis	appearance	left base
+trachea	be	of normal caliber
+calcified granuloma	located in	left midlung
+lung volumes	condition	low
+granuloma	stability	unchanged
+aorta	condition	tortuous
+trachea	be	of normal caliber
+scarring	appearance	right base
+lungs	condition	well-aerated
+lungs	condition	hyperexpanded
+lung bases	show no	atelectasis
+pneumothorax	presence	no
+atherosclerosis	severity	moderate
+lung base	show	scarring
+kyphosis	be	present
+pneumothorax	be	absent
+posterior junction line	be	displaced
+tracheostomy tube	be	present
+bronchial wall thickening	status	present
+mediastinum	be	not shifted
+emphysema	presence	yes
+breast implants	presence	yes
+pulmonary vasculature	show	normal branching
+alveolar spaces	show no	opacities
+interstitial markings	appearance	bilateral
+interstitial markings	appearance	increased
+interstitial markings	status	increased
+granuloma	stability	stable
+heart	size	normal
+heart size	be	normal
+costophrenic angles	be	sharp
+calcified granuloma	located in	left upper lobe
+pleural reflections	be	normal
+main pulmonary arteries	be	not dilated
+lung bases	show no	abnormality
+pulmonary nodules	be	absent
+costophrenic angles	status	blunted
+pleural effusion	appearance	bilateral
+thoracic spine	have	spondylosis
+Mediastinal contour	be	normal
+Lung volumes	show	interval improvement bilaterally
+Cardiomediastinal silhouette	be	normal
+consolidation	appearance	right middle lobe
+lung bases	show no	infiltrates
+alveolar edema	affects	lungs
+pulmonary vasculature	be	not prominent
+aorta	condition	calcified
+Right lung	show	bronchovascular crowding
+fissures	be	not thickened
+clavicle	appearance	left distal
+diaphragm	appearance	right
+calcified lymph nodes	appearance	mediastinal
+vertebral body	condition	compression fracture
+diaphragmatic contours	be	normal
+diaphragm	appearance	right
+calcified granuloma	differential diagnosbe	includes malignancy
+atherosclerosis	severity	moderate
+COPD	presence	yes
+calcified lymph nodes	appearance	mediastinal
+atelectasis	appearance	left base
+tracheostomy tube	presence	yes
+Left lower lobe	show	patchy infiltrate
+calcified granuloma	located in	right apex
+thoracic aorta	condition	ectasia
+pulmonary arteries	appearance	enlarged
+CABG	represent	clips
+fracture	status	fixation
+scarring	appearance	bilateral base
+Right upper lobe	show	loculated pleural fluid
+aortopulmonary window	be	widened
+spine	condition	osteophytes
+calcified granuloma	associate	histoplasmosis
+calcified lymph nodes	appearance	left hilar
+calcified granuloma	associate	none
+heart	be	not enlarged
+lungs	be	hyperinflated
+pacemaker	presence	yes
+calcified granuloma	located in	right base
+hilar shadows	be	normal
+lung volumes	status	normal
+Right pleural effusion	be	small
+consolidation	presence	yes
+calcified granuloma	clinical significance	benign
+pulmonary edema	presence	no
+bronchi	appearance	thickened walls
+ICD leads	status	present
+lung bases	be	free of infiltrates
+calcified granuloma	associate	surrounding inflammation
+cardiomegaly	severity	mild
+lungs	condition	hyperinflated
+heart	size	mildly enlarged
+surgical clips	be	present
+scarring	appearance	right upper lobe
+thoracic aorta	condition	atherosclerosis
+cardiophrenic recesses	be	not obscured
+thoracic spine	condition	degenerative changes
+pleural effusion	presence	bilateral
+calcified granuloma	located in	right hilar region
+aortic knob	be	not prominent
+lungs	condition	well-expanded
+pleural effusion	size	small
+calcified granuloma	located in	left upper lobe
+osseous structures	condition	intact
+apical scarring	be	present
+bony structures	appearance	degenerative changes
+lung parenchyma	show	no ground-glass opacities
+pneumothorax	presence	no
+pulmonary edema	presence	possible
+trachea	appearance	midline
+central venous catheter	presence	yes
+lung bases	be	well-aerated
+bronchovascular crowding	be	present
+first ribs	be	intact
+air bronchograms	associate	pneumonia
+Left base airspace disease	show	clearing
+azygos fissure	presence	yes
+pleural effusion	status	absent
+hiatus hernia	size	moderate
+aorta	condition	calcified
+tracheostomy tube	appearance	above carina
+clavicle	condition	resection
+costophrenic angles	be	blunted
+Bibasilar airspace opacities	represent	atelectasis or infiltrates
+pulmonary arteries	be	prominent
+bony structures	show	no acute abnormalities
+Acute osseous abnormality	be	not identified
+osteopenia	appearance	spine
+bony thorax	be	intact
+calcified granuloma	differential diagnosbe	includes fungal infection
+Pneumothorax	be	not present
+hilar calcification	be present in	lung hila
+aorta	be	tortuous
+calcified granuloma	size	5 mm
+diaphragm	condition	eventration
+scoliosis	be	present
+posterior mediastinum	show no	masses
+hilar shadows	be	not enlarged
+hilar lymph nodes	appearance	right
+diaphragmatic contours	be	smooth
+atelectasis	be present in	left lower lobe
+lung volumes	be	normal
+thoracic aorta	condition	ectasia
+cardiomediastinal silhouette	appearance	enlarged
+lung infiltrates	be	absent
+heart	have	cardiomegaly
+Right effusion	be	present
+alveolar edema	affects	lungs
+mediastinum	be	widened
+Pneumothorax	be	not identified
+lungs	be	clear
+cardiomegaly	status	present
+lung mass	appearance	left lung base
+aorta	condition	atherosclerotic
+lung bases	show no	infiltrates
+lungs	have	chronic changes
+heart	size	borderline
+CABG	represent	markers
+Lung volumes	be	low
+granuloma	appearance	right upper lobe
+costophrenic angles	appearance	sharp
+Left effusion	be present in	left lateral costophrenic recess
+lung fields	show no	opacities
+lung volumes	be	normal
+costophrenic sulci	be	deep
+Mediastinal contour	be	normal
+pulmonary arteriovenous malformation	be present in	lungs
+Left-sided central venous catheter	be	in place
+heart	size	enlarged
+atelectasis	be present in	lung bases
+Air-fluid levels	represent	empyema with bronchopleural fistula
+hiatal hernia	be	present
+calcified granuloma	appearance	left upper lobe
+ribs	have	fractures
+scoliosis	appearance	thoracic spine
+main bronchi	be	patent
+cardiomegaly	severity	mild
+pulmonary vasculature	be	not prominent
+calcified granuloma	located in	lingula
+aorta	be	atherosclerotic
+consolidation	appearance	right upper lobe
+heart	size	mildly enlarged
+Bibasilar airspace opacities	represent	infiltrates
+fissures	be	thickened
+AICD	appearance	left chest wall
+chest wall	show	no soft tissue masses
+emphysema	severity	severe
+pectus carinatum	status	present
+lung bases	show no	abnormality
+bronchial wall thickening	presence	yes
+tracheal dilation	affects	trachea

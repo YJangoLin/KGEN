@@ -1,0 +1,1663 @@
+lEntity,Rela,rEntity
+aorta,is,tortuous
+aorta,is,calcified
+aorta,is,ectatic
+aorta,is,unfolded
+aorta,has,atherosclerotic calcifications
+aorta,is,dilated
+aorta,is,prominent
+aorta,has,aneurysmal enlargement
+heart,size,normal
+heart,size,enlarged
+heart,has,cardiomegaly
+heart,size,borderline
+heart,has,left ventricular enlargement
+lungs,are,clear
+lungs,have,emphysematous changes
+lungs,have,granulomas
+lungs,are,hyperinflated
+lungs,have,interstitial markings
+lungs,have,chronic changes
+lungs,have,COPD changes
+pleural effusion,is,absent
+pleural effusion,is,present
+pneumothorax,is,absent
+pulmonary edema,is,absent
+pulmonary edema,is,present
+thoracic spine,has,degenerative changes
+thoracic spine,has,osteophytes
+thoracic spine,has,spondylosis
+ribs,have,fractures
+mediastinum,is,normal
+mediastinum,is,widened
+pulmonary vasculature,is,normal
+pulmonary vasculature,is,engorged
+diaphragm,is,elevated
+diaphragm,is,flattened
+hiatal hernia,is,present
+sternotomy wires,are,present
+pacemaker,is,present
+ICD leads,are,present
+airspace consolidation,is,absent
+airspace consolidation,is,present
+atelectasis,is,present
+interstitial markings,are,present
+nodules,are,present
+calcified lymph nodes,are,present
+scoliosis,is,present
+kyphosis,is,present
+osteopenia,is,present
+pleural thickening,is,present
+pulmonary hypertension,may be,present
+costophrenic angles,are,blunted
+lung volumes,are,low
+lung volumes,are,normal
+trachea,is,midline
+surgical clips,are,present
+CABG,changes are,present
+aortic valve replacement,changes are,present
+vertebral bodies,have,wedge deformities
+clavicle,has,deformity
+azygos fissure,is,present
+pulmonary nodules,are,present
+pleural plaques,are,present
+bronchial wall thickening,is,present
+pulmonary fibrosis,may be,present
+lung scarring,is,present
+mediastinal lymphadenopathy,may be,present
+aortic aneurysm,may be,present
+tracheostomy tube,is,present
+mitral annular calcification,is,present
+apical scarring,is,present
+calcified granuloma,located in,lung
+calcified granuloma,located in,right upper lobe
+calcified granuloma,located in,left upper lobe
+calcified granuloma,located in,right lower lobe
+calcified granuloma,located in,left lower lobe
+calcified granuloma,located in,right midlung
+calcified granuloma,located in,left midlung
+calcified granuloma,located in,right hilar region
+calcified granuloma,located in,left hilar region
+calcified granuloma,located in,right apex
+calcified granuloma,located in,left apex
+calcified granuloma,located in,right base
+calcified granuloma,located in,left base
+calcified granuloma,located in,right middle lobe
+calcified granuloma,located in,lingula
+calcified granuloma,located in,right costophrenic angle
+calcified granuloma,located in,left costophrenic angle
+calcified granuloma,size,3 mm
+calcified granuloma,size,4 mm
+calcified granuloma,size,5 mm
+calcified granuloma,size,6 mm
+calcified granuloma,size,8 mm
+calcified granuloma,size,1.7 cm
+calcified granuloma,size,2 cm
+calcified granuloma,appearance,stable
+calcified granuloma,appearance,unchanged
+calcified granuloma,quantity,multiple
+calcified granuloma,quantity,scattered
+calcified granuloma,quantity,few
+heart,size,normal
+heart,size,enlarged
+heart,size,mildly enlarged
+heart,size,upper limits of normal
+heart,contour,normal
+lungs,condition,clear
+lungs,condition,hyperexpanded
+lungs,condition,emphysematous
+lungs,condition,well-expanded
+lungs,condition,low volume
+pleural effusion,status,absent
+pleural effusion,status,present
+pleural effusion,location,left
+pleural effusion,location,right
+pleural effusion,location,bilateral
+pleural effusion,size,small
+pneumothorax,status,absent
+pneumothorax,status,present
+thoracic spine,condition,degenerative changes
+thoracic spine,condition,osteophytes
+thoracic spine,condition,scoliosis
+aorta,condition,calcified
+aorta,condition,tortuous
+aorta,condition,ectatic
+mediastinal contour,appearance,normal
+mediastinal contour,appearance,widened
+pulmonary vasculature,appearance,normal
+pulmonary vasculature,appearance,prominent
+COPD,associated with,lung changes
+COPD,associated with,hyperinflation
+hiatal hernia,status,present
+hiatal hernia,size,small
+rib fractures,status,present
+rib fractures,location,left
+rib fractures,location,right
+rib fractures,healing status,healed
+sternotomy wires,status,present
+pacemaker,status,present
+pacemaker,location,left chest
+ICD leads,status,present
+lung nodules,status,present
+lung nodules,size,small
+lung nodules,appearance,noncalcified
+atelectasis,location,bibasilar
+atelectasis,location,left base
+atelectasis,location,right base
+osteopenia,location,spine
+osteopenia,location,ribs
+scoliosis,location,thoracic spine
+scoliosis,severity,mild
+calcified lymph nodes,location,hilar
+calcified lymph nodes,location,mediastinal
+pulmonary fibrosis,status,present
+pulmonary fibrosis,location,bilateral
+pleural thickening,location,apical
+pleural thickening,location,right
+pleural thickening,location,left
+cardiomegaly,status,present
+cardiomegaly,degree,mild
+atherosclerosis,location,aorta
+atherosclerosis,severity,moderate
+emphysema,associated with,lung changes
+emphysema,location,upper lobes
+bronchial wall thickening,status,present
+bronchial wall thickening,location,diffuse
+interstitial markings,location,bilateral
+interstitial markings,appearance,increased
+kyphosis,location,thoracic spine
+kyphosis,severity,mild
+pectus excavatum,status,present
+pectus carinatum,status,present
+diaphragm,position,elevated
+diaphragm,position,normal
+trachea,position,midline
+trachea,position,deviated
+costophrenic angles,appearance,sharp
+costophrenic angles,appearance,blunted
+bony structures,appearance,intact
+bony structures,appearance,degenerative changes
+soft tissues,appearance,normal
+soft tissues,appearance,swelling
+calcified granuloma,associated with,previous infection
+calcified granuloma,associated with,tuberculosis
+calcified granuloma,associated with,histoplasmosis
+calcified granuloma,follow-up,recommended
+calcified granuloma,follow-up,not necessary
+calcified granuloma,clinical significance,benign
+calcified granuloma,clinical significance,requires monitoring
+calcified granuloma,differential diagnosis,includes malignancy
+calcified granuloma,differential diagnosis,includes sarcoidosis
+calcified granuloma,differential diagnosis,includes fungal infection
+chest radiograph,quality,adequate
+chest radiograph,view,PA
+chest radiograph,view,lateral
+chest radiograph,comparison,previous study
+pulmonary arteries,appearance,normal
+pulmonary arteries,appearance,enlarged
+bronchi,appearance,normal
+bronchi,appearance,thickened walls
+lung volumes,status,normal
+lung volumes,status,decreased
+lung volumes,status,increased
+pleural plaques,status,present
+pleural plaques,location,bilateral
+pleural plaques,associated with,asbestos exposure
+air bronchograms,status,present
+air bronchograms,location,right lower lobe
+air bronchograms,associated with,pneumonia
+cardiomediastinal silhouette,appearance,normal
+cardiomediastinal silhouette,appearance,enlarged
+calcified granuloma,density,high
+calcified granuloma,shape,round
+calcified granuloma,shape,oval
+calcified granuloma,margins,well-defined
+calcified granuloma,distribution,random
+calcified granuloma,distribution,upper lobe predominant
+calcified granuloma,temporal change,stable
+calcified granuloma,temporal change,increased in size
+calcified granuloma,temporal change,decreased in size
+calcified granuloma,associated findings,none
+calcified granuloma,associated findings,surrounding inflammation
+lungs,status,clear
+lungs,status,expanded
+infiltrates,presence,no
+atelectasis,location,lingula
+heart size,status,normal
+calcified granuloma,location,right hilar
+lungs,status,hyperinflated
+pulmonary vasculature,status,normal
+pleural effusion,presence,no
+pneumothorax,presence,no
+calcified granuloma,location,left midlung
+calcified lymph nodes,location,left hilar
+calcified lymph nodes,location,mediastinal
+aorta,status,tortuous
+aorta,status,calcified
+spine,condition,degenerative changes
+ribs,condition,no acute fractures
+calcified granuloma,location,left upper lobe
+calcified granuloma,location,left lower lobe
+calcified granuloma,size,small
+calcified granuloma,size,large
+calcified granuloma,number,multiple
+calcified granuloma,number,single
+calcified granuloma,stability,stable
+calcified granuloma,stability,unchanged
+calcified lymph nodes,size,small
+calcified lymph nodes,size,large
+calcified lymph nodes,number,multiple
+calcified lymph nodes,number,single
+calcified lymph nodes,stability,stable
+calcified lymph nodes,stability,unchanged
+heart,size,enlarged
+heart,size,normal
+mediastinum,contour,normal
+mediastinum,contour,widened
+lungs,condition,emphysema
+lungs,condition,COPD
+diaphragm,contour,flattened
+retrosternal space,status,increased
+pulmonary edema,presence,no
+pulmonary edema,presence,yes
+consolidation,presence,no
+consolidation,presence,yes
+atelectasis,location,bibasilar
+atelectasis,side,left
+atelectasis,side,right
+pleural thickening,location,left lateral
+pleural thickening,location,right lateral
+sternotomy wires,presence,yes
+aortic valve,status,prosthetic
+CABG,evidence,clips
+CABG,evidence,markers
+coronary artery,evidence,stents
+lung volumes,status,low
+scoliosis,location,thoracolumbar
+osteophytes,location,thoracic spine
+fracture,location,right humeral
+fracture,status,fixation
+kyphosis,degree,exaggerated
+bone density,status,osteopenia
+clavicle,condition,old fracture
+pulmonary arteries,status,prominent
+costophrenic angles,status,blunted
+airspace disease,location,right basilar
+pleural plaques,presence,yes
+pleural plaques,association,asbestos exposure
+calcified granuloma,differential diagnosis,tuberculosis
+calcified granuloma,differential diagnosis,histoplasmosis
+calcified granuloma,follow-up,recommended
+calcified granuloma,clinical significance,benign
+calcified granuloma,clinical significance,requires monitoring
+hiatus hernia,size,moderate
+nodule,location,left lower lobe
+nodule,size,22 x 14 mm
+nodule,composition,calcified
+interstitial markings,status,increased
+interstitial markings,pattern,reticular
+interstitial markings,pattern,nodular
+pulmonary fibrosis,extent,diffuse bilateral
+pulmonary fibrosis,sparing,bilateral apices
+aorta,condition,aneurysm
+aorta,location,descending thoracic
+lymph nodes,calcification,right paratracheal
+lymph nodes,calcification,right hilar
+lymph nodes,calcification,left hilar
+lymph nodes,calcification,subcarinal
+lymph nodes,calcification,mediastinal
+granuloma,location,right upper lobe
+granuloma,location,right lower lobe
+granuloma,location,left upper lobe
+granuloma,location,left lower lobe
+granuloma,size,small
+granuloma,size,large
+granuloma,number,multiple
+granuloma,number,single
+granuloma,stability,stable
+granuloma,stability,unchanged
+pleural effusion,size,small
+pleural effusion,size,moderate
+pleural effusion,laterality,bilateral
+pleural effusion,laterality,unilateral
+azygos fissure,presence,yes
+azygos fissure,clinical significance,normal variant
+cardiac defibrillator,location,right ventricle
+splenic granulomas,presence,multiple
+splenic granulomas,composition,calcified
+vertebral body,condition,compression fracture
+vertebral body,location,thoracic
+pacemaker,presence,yes
+pacemaker,location,right chest wall
+bronchial wall thickening,presence,yes
+bronchial wall thickening,association,chronic bronchitis
+pulmonary hypertension,evidence,enlarged pulmonary arteries
+pulmonary hypertension,evidence,right ventricular enlargement
+calcified granuloma,differential diagnosis,old empyema
+calcified granuloma,differential diagnosis,old hematoma
+calcified granuloma,differential diagnosis,prior tuberculosis
+calcified granuloma,location,left paraesophageal
+calcified granuloma,location,intrapulmonary
+thoracic aorta,condition,ectasia
+thoracic aorta,condition,tortuosity
+mitral valve,condition,annular calcification
+epicardial fat pads,status,prominent
+thoracic spine,condition,DISH
+lung base,opacity,patchy
+lung base,opacity,resolving
+hemidiaphragm,condition,tenting
+hemidiaphragm,location,right lateral
+pleural thickening,location,left apical
+T12-L1 vertebrae,condition,possible old injury
+T12-L1 vertebrae,condition,possible developmental anomaly
+lungs,hyperexpansion,associated with COPD
+prostate cancer,history,mentioned
+prostate cancer,recommendation,further evaluation with CT scan
+granulomatous disease,evidence,calcified lymph nodes
+granulomatous disease,evidence,calcified lung nodules
+granulomatous disease,possible cause,histoplasmosis
+granulomatous disease,possible cause,tuberculosis
+granulomatous disease,possible cause,sarcoidosis
+pulmonary sarcoidosis,possibility,mentioned
+pulmonary sarcoidosis,evidence,indistinct pulmonary interstitium
+pulmonary sarcoidosis,evidence,parenchymal nodules
+pulmonary edema,evidence,bronchovascular crowding
+pulmonary edema,evidence,cephalization of vessels
+asbestos exposure,possibility,mentioned
+asbestos exposure,evidence,pleural plaques
+chronic lung disease,evidence,hyperinflation
+chronic lung disease,evidence,coarsened interstitial markings
+chronic lung disease,type,COPD
+chronic lung disease,type,emphysema
+cardiomegaly,severity,mild
+cardiomegaly,stability,stable
+vascular congestion,location,central
+lung volumes,status,low
+left hemidiaphragm,status,elevated
+atelectasis,location,basilar
+atelectasis,type,subsegmental
+heart,size,enlarged
+mediastinal contours,status,stable
+pulmonary vascularity,status,normal
+pleural effusion,presence,no
+pneumothorax,presence,no
+consolidation,presence,no
+aorta,condition,tortuous
+aorta,condition,calcified
+spine,condition,degenerative changes
+interstitial markings,status,increased
+pulmonary edema,presence,possible
+hiatal hernia,presence,yes
+hiatal hernia,size,moderate
+sternotomy,presence,yes
+sternotomy wires,status,intact
+CABG,history,yes
+pacemaker,presence,yes
+pacemaker,location,left chest wall
+ICD,presence,yes
+ICD,location,left chest
+lung granuloma,presence,yes
+lung granuloma,location,right base
+lung granuloma,type,calcified
+pleural thickening,presence,yes
+pleural thickening,location,left apical
+hemidiaphragm,condition,elevated
+hemidiaphragm,location,right
+COPD,evidence,hyperinflated lungs
+pulmonary hypertension,evidence,enlarged pulmonary arteries
+pulmonary hypertension,evidence,right ventricular enlargement
+atrial enlargement,location,right
+atrial enlargement,location,left
+ventricular enlargement,location,right
+thoracic aorta,condition,ectasia
+thoracic aorta,condition,atherosclerosis
+mitral valve,condition,annular calcification
+aortic valve,status,prosthetic
+coronary artery,presence,stents
+lung volumes,status,hyperexpanded
+interstitial lung disease,presence,possible
+pulmonary fibrosis,presence,possible
+azygos fissure,presence,yes
+azygos fissure,clinical significance,normal variant
+lung nodule,presence,yes
+lung nodule,location,left upper lobe
+lung nodule,size,2.2 x 1.6 cm
+pleural effusion,location,bilateral
+pleural effusion,size,small
+pulmonary edema,type,interstitial
+pulmonary edema,severity,mild
+atelectasis,location,bibasilar
+atelectasis,location,left lower lobe
+atelectasis,location,right middle lobe
+pulmonary vascular congestion,presence,yes
+pulmonary vascular congestion,severity,mild
+airspace disease,location,bilateral
+airspace disease,location,bibasilar
+airspace disease,type,patchy
+thoracic spine,condition,kyphosis
+thoracic spine,condition,scoliosis
+thoracic spine,condition,degenerative changes
+rib fracture,presence,old
+rib fracture,location,right
+shoulder,condition,degenerative changes
+shoulder,location,bilateral
+clavicle,condition,resection
+clavicle,location,left distal
+hilar lymph node,condition,calcified
+hilar lymph node,location,right
+mediastinal lymph node,condition,calcified
+pericardial effusion,presence,possible
+pericardial fat pad,status,prominent
+epicardial fat pad,status,prominent
+diaphragm,condition,eventration
+diaphragm,location,right
+tracheostomy tube,presence,yes
+tracheostomy tube,position,above carina
+central venous catheter,presence,yes
+central venous catheter,location,right internal jugular
+PICC line,presence,yes
+PICC line,location,right upper extremity
+dialysis catheter,presence,yes
+dialysis catheter,type,dual-lumen
+aortic aneurysm,location,ascending
+aortic aneurysm,presence,known
+breast implants,presence,yes
+breast implants,type,calcified
+mastectomy,history,yes
+mastectomy,location,right
+lung scarring,presence,yes
+lung scarring,location,left base
+lung scarring,location,right upper lobe
+granulomatous disease,evidence,calcified lymph nodes
+(heart,size,normal
+(heart,size,enlarged
+(heart,size,mildly enlarged
+(heart,size,borderline
+(heart,size,upper normal
+(heart,size,within normal limits
+(lungs,condition,clear
+(lungs,condition,hyperinflated
+(lungs,condition,emphysematous
+(lungs,condition,well-aerated
+(lungs,condition,hypoinflated
+(pleural effusion,presence,no
+(pleural effusion,presence,small
+(pleural effusion,presence,minimal
+(pneumothorax,presence,no
+(scarring,location,biapical
+(scarring,location,left base
+(scarring,location,right base
+(scarring,location,bilateral base
+(scarring,location,left upper lobe
+(scarring,location,right upper lobe
+(scarring,location,lingula
+(atelectasis,location,left base
+(atelectasis,location,right base
+(atelectasis,location,bilateral base
+(consolidation,presence,no
+(consolidation,location,right upper lobe
+(consolidation,location,left lower lobe
+(granuloma,type,calcified
+(granuloma,location,right hilum
+(granuloma,location,left lower lobe
+(aorta,condition,tortuous
+(aorta,condition,calcified
+(aorta,condition,ectatic
+(aorta,condition,atherosclerotic
+(mediastinum,appearance,normal
+(mediastinum,appearance,unremarkable
+(COPD,presence,yes
+(emphysema,presence,yes
+(emphysema,severity,severe
+(pulmonary vasculature,appearance,normal
+(pulmonary vasculature,appearance,prominent
+(rib fracture,presence,old
+(rib fracture,location,left 9th
+(spine,condition,degenerative changes
+(spine,condition,scoliosis
+(spine,condition,osteophytes
+(pacemaker,presence,yes
+(pacemaker,location,left chest wall
+(hiatal hernia,presence,yes
+(lung volumes,condition,low
+(airspace disease,location,right upper lobe
+(airspace disease,location,left lower lobe
+(pleural thickening,location,left apex
+(pleural thickening,location,right apex
+(bronchiectasis,presence,yes
+(bronchiectasis,cause,cystic fibrosis
+(tuberculosis,status,previous
+(cardiomegaly,presence,yes
+(cardiomegaly,severity,mild
+(lung mass,location,left lung base
+(AICD,presence,yes
+(AICD,location,left chest wall
+(central venous catheter,presence,yes
+(central venous catheter,location,right jugular
+(CABG,status,post
+(mitral valve,status,post surgery
+(sternotomy,status,post
+(lungs,condition,hyperaerated
+(lungs,condition,hyperexpanded
+(lungs,condition,hyperinflated
+(lungs,condition,clear
+(lungs,condition,emphysematous
+(heart,size,normal
+(heart,size,mildly enlarged
+(heart,size,borderline
+(mediastinum,appearance,unremarkable
+(mediastinum,appearance,normal
+(aorta,condition,tortuous
+(aorta,condition,calcified
+(aorta,condition,ectatic
+(aorta,condition,atherosclerotic
+(diaphragm,condition,flattened
+(pleural effusion,presence,no
+(pleural effusion,presence,small
+(pneumothorax,presence,no
+(pulmonary vasculature,appearance,normal
+(pulmonary vasculature,appearance,prominent
+(emphysema,presence,yes
+(emphysema,severity,mild
+(emphysema,severity,severe
+(COPD,presence,yes
+(consolidation,presence,no
+(consolidation,location,right middle lobe
+(consolidation,location,right upper lobe
+(granuloma,type,calcified
+(granuloma,location,right hilum
+(granuloma,location,left upper lobe
+(atelectasis,location,bibasilar
+(atelectasis,location,left base
+(atelectasis,location,right base
+(scarring,location,biapical
+(scarring,location,left base
+(scarring,location,right base
+(spine,condition,degenerative changes
+(spine,condition,scoliosis
+(spine,condition,kyphosis
+(rib,condition,fracture
+(rib,location,left
+(rib,location,right
+(pacemaker,presence,yes
+(pacemaker,location,left chest wall
+(AICD,presence,yes
+(AICD,location,left chest wall
+(cardiomegaly,presence,yes
+(cardiomegaly,severity,mild
+(pulmonary artery,condition,enlarged
+(lung volumes,condition,low
+(lung volumes,condition,increased
+(airspace disease,location,right middle lobe
+(airspace disease,location,right upper lobe
+(pleural thickening,location,biapical
+(hiatal hernia,presence,yes
+(tuberculosis,status,previous
+(sternotomy,status,post
+(central venous catheter,presence,yes
+(central venous catheter,location,right jugular
+(PICC line,presence,yes
+(PICC line,location,left arm
+(lungs,condition,hypoinflated
+(lungs,condition,low volumes
+(lungs,condition,clear
+(lungs,condition,hypoventilated
+(heart,size,normal
+(heart,size,mildly enlarged
+(heart,size,borderline
+(heart,size,cardiomegaly
+(mediastinum,appearance,unremarkable
+(mediastinum,appearance,normal
+(mediastinum,appearance,widened
+(aorta,condition,tortuous
+(aorta,condition,calcified
+(aorta,condition,atherosclerotic
+(diaphragm,condition,elevated
+(diaphragm,condition,eventration
+(pleural effusion,presence,small
+(pleural effusion,presence,bilateral
+(pleural effusion,location,right
+(pleural effusion,location,left
+(pneumothorax,presence,no
+(pulmonary vasculature,appearance,normal
+(pulmonary vasculature,appearance,congested
+(atelectasis,location,bibasilar
+(atelectasis,location,left base
+(atelectasis,location,right base
+(infiltrate,location,right lower lobe
+(infiltrate,location,left lower lobe
+(consolidation,location,right lower lobe
+(consolidation,location,left lower lobe
+(granuloma,type,calcified
+(granuloma,location,right upper lobe
+(granuloma,location,left upper lobe
+(hilar lymph nodes,condition,calcified
+(hilar lymph nodes,location,right
+(hilar lymph nodes,location,left
+(spine,condition,degenerative changes
+(spine,condition,scoliosis
+(spine,condition,kyphosis
+(rib,condition,fracture
+(rib,location,left
+(rib,location,right
+(pacemaker,presence,yes
+(pacemaker,location,left chest wall
+(AICD,presence,yes
+(AICD,location,left chest wall
+(central venous catheter,presence,yes
+(central venous catheter,location,right internal jugular
+(PICC line,presence,yes
+(PICC line,location,left arm
+(sternotomy wires,presence,yes
+(hiatal hernia,presence,yes
+(cholecystectomy clips,presence,yes
+(cholecystectomy clips,location,right upper quadrant
+(lung markings,appearance,crowded
+(lung markings,appearance,prominent
+(costophrenic angles,appearance,blunted
+(trachea,position,midline
+(trachea,position,deviated
+(pulmonary edema,presence,mild
+(interstitial markings,appearance,prominent
+(osseous structures,condition,intact
+(osseous structures,condition,osteopenia
+heart size,is,normal
+lungs,are,clear
+cardiomediastinal silhouette,is,normal
+pleural effusion,is,absent
+pneumothorax,is,absent
+focal consolidation,is,absent
+pulmonary vasculature,is,normal
+bony structures,are,intact
+mediastinal contour,is,normal
+airspace disease,is,absent
+pulmonary edema,is,absent
+osseous structures,appear,intact
+trachea,is,midline
+lung volumes,are,normal
+aortic XXXX,appear,unremarkable
+cardiac silhouette,is,normal
+hilar contours,are,normal
+costophrenic XXXX,are,clear
+thoracic spine,appears,intact
+ribs,show no,fractures
+soft tissues,are,unremarkable
+diaphragm,shows no,free air
+upper abdomen,is,unremarkable
+XXXX,are,normal
+pulmonary XXXX,are,normal
+central airways,are,normal
+lung parenchyma,is,clear
+pleural spaces,show no,abnormality
+mediastinum,is,unremarkable
+heart,has,normal contour
+lungs,are,well-expanded
+pulmonary nodules,are,absent
+pulmonary masses,are,absent
+adenopathy,is,absent
+pneumonia,is,absent
+tuberculosis,shows,no evidence
+cardiopulmonary abnormality,is,absent
+acute disease,is,absent
+active disease,is,absent
+lung infiltrates,are,absent
+pleural line,suggesting pneumothorax,is absent
+costophrenic XXXX blunting,suggesting effusion,is absent
+mediastinal widening,is,absent
+pulmonary vascular congestion,is,absent
+hilar enlargement,is,absent
+atelectasis,is,absent
+air bronchograms,are,absent
+lung markings,are,normal
+cardiothoracic ratio,is,normal
+aortic knob,is,normal
+pulmonary arteries,are,normal
+fissures,are,normal
+bronchial walls,are,normal
+lung apices,are,clear
+lung bases,are,clear
+hemidiaphragms,are,normal
+cardiophrenic angles,are,sharp
+costophrenic angles,are,sharp
+bone mineralization,is,normal
+vertebral bodies,show,normal alignment
+intervertebral disc spaces,are,maintained
+shoulder girdles,are,symmetric
+clavicles,are,intact
+scapulae,are,normal
+first ribs,are,intact
+lung vascularity,is,normal
+pulmonary vessels,are,normal
+bronchial tree,is,normal
+mediastinal structures,are,normal
+cardiac apex,is,normal
+cardiac borders,are,well-defined
+lung volumes,are,adequate
+diaphragmatic contours,are,smooth
+costophrenic sulci,are,clear
+pleural thickening,is,absent
+calcified granulomas,are,absent
+pulmonary scars,are,absent
+hilar calcifications,are,absent
+mediastinal fat,is,normal
+tracheal air column,is,midline
+main bronchi,are,patent
+lung fields,are,clear
+pulmonary interstitium,is,normal
+peribronchial cuffing,is,absent
+air trapping,is,absent
+pulmonary congestion,is,absent
+vascular pedicle,is,normal
+azygos vein,is,normal
+retrocardiac space,is,clear
+retrosternal space,is,clear
+cardiac silhouette,shows,normal contour
+lung apices,show no,abnormality
+lung bases,show no,abnormality
+costophrenic angles,are,sharp
+cardiophrenic angles,are,clear
+pulmonary vasculature,shows,normal branching
+hilar shadows,are,symmetric
+tracheal air shadow,is,midline
+main pulmonary arteries,are,normal
+aortic arch,is,normal
+bones,show no,acute abnormality
+soft tissues,show no,abnormality
+lung markings,extend to,periphery
+diaphragmatic contours,are,smooth
+costophrenic sulci,are,sharp
+mediastinal contours,are,well-defined
+cardiac borders,are,distinct
+pulmonary arteries,are,not enlarged
+pulmonary veins,are,not engorged
+lung bases,are,well-aerated
+pleural spaces,are,free of fluid
+fissures,are,not thickened
+bronchial walls,are,not thickened
+pulmonary vessels,are,not congested
+lung fields,show,normal translucency
+mediastinum,is,not widened
+cardiothoracic ratio,is,within normal limits
+trachea,is,of normal caliber
+main bronchi,are,normal in caliber
+lung volumes,are,preserved
+diaphragms,are,at normal levels
+bony thorax,is,intact
+soft tissue structures,are,normal
+pleural surfaces,are,smooth
+lung parenchyma,shows,normal aeration
+pulmonary vasculature,is,not congested
+heart,is,not enlarged
+mediastinal structures,are,not displaced
+hilar regions,are,unremarkable
+lung apices,are,well-aerated
+costophrenic recesses,are,clear
+cardiophrenic recesses,are,clear
+pulmonary arteries,are,not prominent
+pulmonary veins,are,not dilated
+interstitial markings,are,normal
+alveolar spaces,are,clear
+bronchial tree,shows,normal branching
+tracheal air column,is,of normal width
+carina,is,at normal level
+azygoesophageal recess,is,normal
+retrocardiac space,shows no,mass
+anterior mediastinum,is,clear
+posterior mediastinum,is,clear
+lung bases,show no,atelectasis
+costophrenic angles,are,not blunted
+cardiophrenic angles,are,not obscured
+pulmonary vessels,show,normal tapering
+hilar shadows,are,not enlarged
+tracheal air shadow,is,of normal width
+main pulmonary arteries,are,not dilated
+aortic knob,is,not prominent
+bones,show,normal mineralization
+soft tissues,are,symmetrical
+lung markings,are,not increased
+diaphragmatic contours,are,not elevated
+costophrenic sulci,are,not obliterated
+mediastinal contours,are,not obscured
+cardiac borders,are,not indistinct
+pulmonary arteries,show,normal caliber
+pulmonary veins,show,normal caliber
+lung bases,show no,infiltrates
+pleural spaces,show no,thickening
+fissures,are,not prominent
+bronchial walls,are,not thickened
+pulmonary vessels,are,not tortuous
+lung fields,show no,opacities
+mediastinum,shows,normal width
+cardiothoracic ratio,is,not increased
+trachea,shows,normal course
+main bronchi,show,normal branching
+lung volumes,are,not decreased
+diaphragms,show,normal contour
+bony thorax,shows no,deformity
+soft tissue structures,show no,masses
+pleural surfaces,show no,thickening
+lung parenchyma,shows no,infiltrates
+pulmonary vasculature,is,not prominent
+heart,shows,normal size and shape
+mediastinal structures,are,in normal position
+hilar regions,show no,masses
+lung apices,show no,nodules
+costophrenic recesses,are,not blunted
+cardiophrenic recesses,are,not obscured
+pulmonary arteries,show,normal branching
+pulmonary veins,show,normal branching
+interstitial markings,are,not increased
+alveolar spaces,show no,opacities
+bronchial tree,is,not distorted
+tracheal air column,is,not deviated
+carina,shows,normal bifurcation
+azygoesophageal recess,is,not widened
+retrocardiac space,is,not opacified
+anterior mediastinum,shows no,masses
+posterior mediastinum,shows no,masses
+lung bases,are,well-expanded
+costophrenic angles,are,well-defined
+cardiophrenic angles,are,sharp
+pulmonary vessels,show,normal distribution
+hilar shadows,are,not prominent
+tracheal air shadow,is,centrally located
+lung volumes,are,low
+heart size,is,normal
+mediastinal contours,are,stable
+lungs,are,hypoinflated
+atelectasis,is present in,lung bases
+pulmonary vascularity,is,normal
+pleural effusion,is not,present
+pneumothorax,is not,present
+focal consolidation,is not,present
+cardiomegaly,is,present
+aorta,is,tortuous
+aorta,is,atherosclerotic
+degenerative changes,are present in,spine
+bronchovascular crowding,is,present
+costophrenic angles,are,blunted
+hemidiaphragm,is elevated,
+airspace opacities,are present in,lung bases
+calcified granuloma,is present in,lung
+sternotomy wires,are present,
+rib fractures,are,present
+lung markings,are,increased
+trachea,is,midline
+hilar lymph nodes,are,calcified
+interstitial markings,are,prominent
+pulmonary edema,is not,present
+central venous catheter,is,present
+PICC line,is,present
+pacemaker,is,present
+surgical clips,are,present
+kyphosis,is,present
+scoliosis,is,present
+lung nodules,are not,present
+pleural thickening,is,present
+hiatal hernia,is,present
+lung volumes,cause,bronchovascular crowding
+atelectasis,is present in,right lower lobe
+atelectasis,is present in,left lower lobe
+infiltrate,may be present in,lung bases
+heart failure,is not,present
+pulmonary vasculature,is,congested
+mediastinum,is,widened
+lung volumes,are,decreased
+cardiomediastinal silhouette,is,enlarged
+osseous structures,appear,intact
+thoracic spine,shows,degenerative changes
+pleural effusion,may be,present
+pneumonia,may be,present
+atelectasis,causes,airspace opacities
+cardiomegaly,causes,enlarged cardiac silhouette
+atherosclerosis,affects,aorta
+right upper lobe,has,opacity
+left upper lobe,has,opacity
+right middle lobe,has,opacity
+left lower lobe,has,opacity
+right lower lobe,has,opacity
+left lung,is,clear
+right lung,is,clear
+cardiac silhouette,is,normal
+pulmonary vasculature,is,prominent
+interstitial opacities,are present in,lungs
+alveolar opacities,are present in,lungs
+emphysema,is present in,lungs
+fibrosis,is present in,lungs
+nodular opacities,are present in,lungs
+reticular opacities,are present in,lungs
+bronchiectasis,is present in,lungs
+pulmonary artery,is,enlarged
+aortic valve,is,calcified
+coronary arteries,are,calcified
+diaphragm,is,elevated
+chest wall,shows,surgical changes
+mediastinum,contains,surgical clips
+thoracic aorta,is,calcified
+thoracic aorta,is,tortuous
+pleural space,contains,air
+pleural space,contains,fluid
+lung apex,shows,scarring
+lung base,shows,scarring
+fissures,are,thickened
+hilar structures,are,prominent
+subcutaneous emphysema,is present in,chest wall
+rib,shows,fracture
+clavicle,shows,fracture
+vertebral body,shows,compression fracture
+lung,contains,mass
+pleura,contains,mass
+mediastinum,contains,mass
+heart,has,pacemaker leads
+superior vena cava,contains,catheter tip
+azygos lobe,is,present
+pneumoperitoneum,is,present
+bowel gas pattern,is,abnormal
+COPD,affects,lungs
+tuberculosis,affects,lungs
+aspiration,affects,lungs
+pulmonary edema,affects,lungs
+pneumothorax,affects,pleural space
+atelectasis,affects,lung lobes
+consolidation,affects,lung lobes
+effusion,affects,pleural space
+bronchial walls,are,thickened
+air bronchograms,are present in,lungs
+pulmonary arteries,are,enlarged
+pulmonary veins,are,enlarged
+interstitial edema,affects,lungs
+alveolar edema,affects,lungs
+pleural plaques,are present on,chest wall
+calcified pleural plaques,are present on,diaphragm
+pneumomediastinum,is present in,chest
+pneumopericardium,is present in,chest
+pericardial effusion,is present around,heart
+cardiac calcification,is present in,heart
+aortic aneurysm,is present in,chest
+tracheal deviation,is,present
+mediastinal shift,is,present
+hilar adenopathy,is,present
+pulmonary hypertension,affects,lungs
+bronchial cuffing,is present in,lungs
+pulmonary infarction,affects,lungs
+cavitary lesions,are present in,lungs
+lung cysts,are present in,lungs
+bullae,are present in,lungs
+pneumatoceles,are present in,lungs
+honeycombing,is present in,lungs
+ground-glass opacities,are present in,lungs
+lung metastases,are present in,lungs
+lymphangitic carcinomatosis,affects,lungs
+pulmonary arteriovenous malformation,is present in,lungs
+pulmonary sequestration,is present in,lungs
+bronchogenic cyst,is present in,lungs
+hamartoma,is present in,lungs
+silicosis,affects,lungs
+asbestosis,affects,lungs
+sarcoidosis,affects,lungs
+lymphoma,affects,lungs
+pulmonary alveolar proteinosis,affects,lungs
+bronchiolitis obliterans,affects,lungs
+bronchopneumonia,affects,lungs
+lobar pneumonia,affects,lung lobes
+lung abscess,is present in,lungs
+empyema,is present in,pleural space
+bronchopleural fistula,is present in,chest
+pneumonectomy,affects,lung
+lobectomy,affects,lung lobe
+wedge resection,affects,lung
+lung transplant,affects,lungs
+chest tube,is present in,pleural space
+endotracheal tube,is present in,trachea
+nasogastric tube,is present in,esophagus
+tracheostomy tube,is present in,trachea
+Swan-Ganz catheter,is present in,pulmonary artery
+implantable cardioverter-defibrillator,is present in,chest
+breast implants,are present in,chest
+sternal wires,are present in,sternum
+aortic stent,is present in,aorta
+coronary artery bypass grafts,are present in,heart
+pectus excavatum,affects,chest wall
+pectus carinatum,affects,chest wall
+flail chest,affects,ribs
+rib notching,affects,ribs
+costal cartilage calcification,affects,ribs
+cervical ribs,are,present
+bone lesions,are present in,ribs
+bone lesions,are present in,spine
+bone lesions,are present in,scapula
+bone lesions,are present in,clavicle
+bone lesions,are present in,humerus
+subcutaneous emphysema,is present in,soft tissues
+soft tissue calcification,is present in,chest wall
+nipple shadow,is present on,chest wall
+gynecomastia,affects,chest wall
+hilar calcification,is present in,lung hila
+splenic calcification,is present in,left upper quadrant
+gallstones,are present in,right upper quadrant
+diaphragmatic eventration,affects,diaphragm
+diaphragmatic paralysis,affects,diaphragm
+gastric bubble,is present under,left diaphragm
+pneumoperitoneum,is present under,diaphragm
+chilaiditi syndrome,affects,colon and liver
+aortic knob,is,prominent
+pulmonary artery knob,is,prominent
+azygos fissure,is present in,right lung
+right paratracheal stripe,is,widened
+aortopulmonary window,is,widened
+retrosternal clear space,is,narrowed
+anterior junction line,is,displaced
+posterior junction line,is,displaced
+right atrial enlargement,affects,heart
+left atrial enlargement,affects,heart
+right ventricular enlargement,affects,heart
+left ventricular enlargement,affects,heart
+pulmonary arterial hypertension,affects,pulmonary arteries
+kerley B lines,are present in,lung periphery
+peribronchial cuffing,is present around,bronchi
+air trapping,is present in,lungs
+hyperinflation,affects,lungs
+bronchial wall thickening,affects,bronchi
+tracheal narrowing,affects,trachea
+tracheal dilation,affects,trachea
+thyroid enlargement,affects,neck
+lungs,are,clear
+heart size,is,normal
+pleural effusion,is,no
+pneumothorax,is,no
+cardiomediastinal silhouette,is,normal
+pulmonary vasculature,is,normal
+focal consolidation,is,no
+thoracic spine,has,degenerative changes
+aorta,has,atherosclerotic changes
+ribs,have,fractures
+mediastinum,is,unremarkable
+lung nodules,are,present
+sternotomy wires,are,present
+hilar contours,are,normal
+trachea,is,midline
+costophrenic angles,are,clear
+diaphragm,is,elevated
+cardiac silhouette,is,normal
+bony structures,are,intact
+lung apices,are,clear
+airspace disease,is,present
+pleural thickening,is,present
+calcified lymph nodes,are,present
+hiatal hernia,is,present
+pacemaker,is,in place
+central venous catheter,is,present
+lung volumes,are,normal
+interstitial markings,are,prominent
+pulmonary edema,is,absent
+emphysematous changes,are,present
+scoliosis,is,present
+kyphosis,is,present
+vertebral bodies,have,compression fractures
+aortic knob,is,calcified
+pulmonary arteries,are,prominent
+breast implants,are,present
+surgical clips,are,present
+granulomas,are,present
+lung bases,are,clear
+mediastinal contours,are,normal
+pulmonary vascularity,is,within normal limits
+osseous structures,are,unremarkable
+soft tissues,are,unremarkable
+cardiothoracic ratio,is,normal
+lung markings,are,normal
+pleural spaces,are,clear
+thoracic aorta,is,tortuous
+cardiac apex,is,normal
+lung fields,are,clear
+rib cage,is,intact
+clavicles,are,intact
+scapulae,are,intact
+lung parenchyma,is,clear
+bronchial tree,is,normal
+pulmonary vessels,are,normal
+heart borders,are,normal
+mediastinal width,is,normal
+lung inflation,is,normal
+diaphragmatic contours,are,normal
+costophrenic sulci,are,clear
+tracheal air column,is,midline
+hilar shadows,are,normal
+lung apices,are,free of infiltrates
+bony thorax,is,intact
+chest wall,is,normal
+cardiophrenic angles,are,clear
+azygoesophageal recess,is,normal
+retrocardiac space,is,clear
+lung periphery,is,clear
+major fissures,are,normal
+minor fissures,are,normal
+pulmonary arteries,are,normal in caliber
+pulmonary veins,are,normal
+bronchial walls,are,normal
+peribronchial cuffing,is,absent
+interstitial lines,are,normal
+pleural reflections,are,normal
+lung apices,are,symmetrical
+lung bases,are,symmetrical
+thoracic cage,is,symmetrical
+mediastinal contour,is,normal
+cardiac size,is,within normal limits
+pulmonary vasculature,is,not congested
+costophrenic angles,are,sharp
+lung volumes,are,preserved
+tracheal air shadow,is,midline
+hilar structures,are,normal
+aortic arch,is,normal
+pulmonary conus,is,normal
+left atrial appendage,is,normal
+right atrial border,is,normal
+left ventricular border,is,normal
+right ventricular border,is,normal
+diaphragmatic contours,are,smooth
+lung fields,are,symmetrical
+bony structures,show,no acute abnormalities
+soft tissues,show,no abnormalities
+cardiomediastinal silhouette,is,within normal limits
+pulmonary vasculature,is,not engorged
+lung parenchyma,shows,no focal opacities
+lung apices,are,free of masses
+lung bases,are,free of infiltrates
+cardiac silhouette,is,not enlarged
+mediastinum,is,not widened
+pulmonary vessels,are,not congested
+costophrenic angles,are,not blunted
+trachea,is,not deviated
+hilar lymph nodes,are,not enlarged
+pleural spaces,are,free of fluid
+lung fields,are,free of nodules
+bony thorax,shows,no fractures
+spine,shows,degenerative changes
+aorta,is,calcified
+heart,is,not enlarged
+lungs,are,well-expanded
+diaphragm,is,in normal position
+chest wall,shows,no abnormalities
+mediastinal contours,are,well-defined
+pulmonary vasculature,is,normal in distribution
+lung markings,are,not increased
+bronchial walls,are,not thickened
+pleural surfaces,are,smooth
+cardiophrenic angles,are,sharp
+aortic knob,is,normal in size
+pulmonary arteries,are,not prominent
+lung volumes,are,not decreased
+interstitial pattern,is,normal
+alveolar spaces,are,clear
+fissures,are,normal in appearance
+hilar shadows,are,not prominent
+tracheal air column,is,patent
+bronchial tree,shows,no abnormalities
+lung apices,are,free of bullae
+lung bases,are,free of atelectasis
+cardiac borders,are,well-defined
+mediastinal structures,are,normal
+pulmonary vessels,are,not tortuous
+costophrenic sulci,are,deep
+diaphragmatic contours,are,smooth
+lung periphery,is,free of nodules
+bony structures,show,no lytic lesions
+soft tissues,show,no masses
+cardiomediastinal silhouette,is,normal in size
+pulmonary vasculature,is,normal in caliber
+lung parenchyma,shows,no consolidation
+pleural reflections,are,intact
+lung apices,are,free of fibrosis
+lung bases,are,free of effusions
+cardiac silhouette,is,normal in contour
+mediastinum,is,not shifted
+pulmonary vessels,are,not prominent
+costophrenic angles,are,free of blunting
+trachea,is,of normal caliber
+hilar regions,are,symmetrical
+pleural spaces,are,free of thickening
+lung fields,are,free of masses
+bony thorax,shows,no destructive lesions
+spine,shows,no compression fractures
+aorta,is,not aneurysmal
+heart,shows,normal cardiac borders
+lungs,show,normal bronchovascular markings
+diaphragm,shows,no eventration
+chest wall,shows,no soft tissue masses
+mediastinal contours,are,not obscured
+pulmonary vasculature,is,not redistributed
+lung markings,are,not crowded
+bronchial walls,are,not prominent
+pleural surfaces,show,no calcifications
+cardiophrenic angles,are,free of masses
+aortic knob,is,not prominent
+pulmonary arteries,are,not dilated
+lung volumes,are,not hyperinflated
+interstitial pattern,shows,no reticulations
+alveolar spaces,show,no opacities
+fissures,are,not thickened
+hilar shadows,are,not enlarged
+tracheal air column,is,not narrowed
+bronchial tree,shows,no dilatation
+lung apices,show,no pleural thickening
+lung bases,show,no discoid atelectasis
+cardiac borders,are,not obscured
+mediastinal structures,show,no masses
+pulmonary vessels,are,not pruned
+costophrenic sulci,are,not obliterated
+diaphragmatic contours,are,not elevated
+lung periphery,shows,no reticular opacities
+bony structures,show,no sclerotic lesions
+soft tissues,show,no calcifications
+cardiomediastinal silhouette,shows,no abnormal contours
+pulmonary vasculature,is,not obscured
+lung parenchyma,shows,no ground-glass opacities
+pleural reflections,show,no thickening
+lung apices,show,no cavitary lesions
+lung bases,show,no honeycombing
+cardiac silhouette,shows,no pericardial effusion
+mediastinum,shows,no lymphadenopathy
+pulmonary vessels,show,no filling defects
+costophrenic angles,show,no pleural plaques
+trachea,shows,no foreign bodies
+hilar regions,show,no calcified lymph nodes
+Bibasilar airspace disease,associated with,bilateral pleural fluid
+Lung volumes,are,low
+Bibasilar consolidation,present with,bilateral costophrenic XXXX blunting
+Heart size,is,normal
+Pulmonary XXXX,are,normal
+Shunt tubing,traverses,entire image
+Right pleural opacity,compatible with,thickening
+Right pleural opacity,compatible with,loculated effusion
+Right lung base,shows,atelectasis
+Right lung base,shows,airspace disease
+Round opacity,seen adjacent to,right hilum
+Round opacity,represents,discoid atelectasis
+Round opacity,represents,fluid in XXXX fissure
+Left lower lung,shows,scarring
+Left lower lung,shows,chronic inflammatory change
+Mediastinal contour,is,stable
+Aeration of lung bases,shows,interval improvement
+Pleural effusions,show,interval improvement
+Left effusion,is,residual small
+Right pleural effusion,is,questionable small
+Cardiomediastinal silhouette,is,normal
+Lung volumes,show,interval improvement bilaterally
+Right lung base,shows,improved aeration
+Left lung base,shows,improved aeration
+Bilateral pleural effusions,are,small
+Left base,shows,atelectatic change
+Left base atelectatic change,shows,interval improvement
+Bilateral effusions,are,XXXX
+Heart size,is,within normal limits
+Left subclavian central venous catheter,shows,stable position
+Focal airspace disease,is,not present
+Pneumothorax,is,not present
+Costophrenic XXXX,show,mild blunting bilaterally
+Congestive heart failure,associated with,basilar pulmonary interstitial edema
+Congestive heart failure,associated with,bilateral pleural fluid
+Heart,is,large
+Pulmonary XXXX,are,engorged
+Bibasilar interstitial infiltrates,are,present
+Bilateral costophrenic XXXX blunting,is,present
+Cardiomegaly,is,present
+Vascular congestion,is,present
+Interstitial edema,is,probable mild
+Bibasilar airspace disease,is,present
+Bilateral pleural effusions,are,present
+Right pleural effusion,is,greater than left
+Pneumothorax,is,not present
+Acute bony findings,are,not present
+Right pleural fusion,is,loculated
+Right pleural fusion,is,unchanged
+Chronic interstitial lung disease,shows,no change
+Left effusion,is present in,left lateral costophrenic recess
+Left lung base airspace disease,is,minimal residual
+Heart size,is,stable
+Heart,is,moderately enlarged
+Aorta,is,tortuous calcified
+Right lung,is,clear
+Cardiomegaly,is present,without overt heart failure
+Right pleural effusion,is,small
+Right pleural effusion,shows,no change
+Left base airspace disease,shows,clearing
+Right lung airspace disease,shows,improvement
+Central venous line,has been,removed
+Inflammatory defibrillator,is,noted
+Heart,is,enlarged
+Patient,is status post,XXXX sternotomy
+Right pleural effusion,is,present and unchanged
+Pneumothorax,is,not seen
+Left base airspace disease,shows,clearing
+Right lung opacities,may represent,areas of scarring
+Left lung,is,clear
+Cardiomegaly,is,slight
+Right effusion,is,present
+Right lower lobe infiltrate,is,present
+Right hemithorax,shows,two air-fluid levels
+Air-fluid levels,may represent,hydropneumothorax
+Air-fluid levels,may represent,empyema with bronchopleural fistula
+CT scan with IV contrast,may be,helpful
+Left pleural effusion,is,large
+Left lung aeration,is,minimal residual
+Right pleural effusion,is,small
+Right lung,shows,bronchovascular crowding
+Right lung,shows,indistinct vascular margination
+Bronchovascular crowding,may be secondary to,crowding
+Bronchovascular crowding,may be secondary to,infiltrates
+Bronchovascular crowding,may be secondary to,pulmonary edema
+Heart size assessment,is,limited due to obscured heart XXXX
+Left pleural effusion,is present with,adjacent atelectasis
+Right effusion,is,XXXX
+Cardiomegaly,is present,without overt edema
+Cardiac silhouette,is,enlarged but unchanged
+Left-sided XXXX central line,has,XXXX lumen
+Poly vasculature,is,within normal limits
+Mediastinum,is,normal
+Bibasilar opacity,is,appreciated
+Left bibasilar opacity,is,greater than right
+Pneumothorax,is,not present
+Bilateral large pleural effusion,is,possibly from pleuritis
+Bilateral large pleural effusion,is,possibly sympathetic from pancreatitis
+XXXX,are,low
+Both costophrenic XXXX,are,blunted
+Pulmonary XXXX,are,normal
+Visible infiltrates,are not present in,aerated lungs
+Small bilateral pleural effusions,are present with,bibasilar atelectasis
+Small bilateral pleural effusions,are present with,airspace disease
+Left pleural effusion,is,greater than right
+Heart size,is,within normal limits
+Calcified hilar lymph XXXX,are present,bilaterally
+Bibasilar airspace opacities,are present with,small bilateral pleural effusions
+Left pleural effusion,is,greater than right
+Pneumothorax,is,not present
+Acute bony abnormalities,are,not present
+Right mid lung consolidation,shows,improvement
+Right basilar consolidation,shows,improvement
+Right pleural effusion,is,decreasing
+Right middle lobe opacification,shows,significant interval decrease
+Right lower lobe opacification,shows,significant interval decrease
+Right pleural effusion,is,persistent small
+XXXX XXXX atelectasis,is,persistent
+Pneumothorax,is,not present
+Cardiomediastinal silhouette,shows,stable appearance
+Acute bone abnormality,is,not present
+Patchy bibasilar opacities,are,minimal
+Patchy bibasilar opacities,may be,evolving pneumonia
+Patchy bibasilar opacities,may be,atelectasis
+Bilateral pleural effusions,are,XXXX
+Heart,appears,normal
+Pulmonary XXXX,appear,normal
+Pleural spaces,show,minimal blunting
+Pleural spaces blunting,may be due to,XXXX effusions
+Right hemidiaphragm,shows,increased elevation
+Right basilar atelectasis,is,present
+Left basilar airspace disease,is,unchanged
+Left pleural effusion,is,unchanged
+Right chest tube,shows,interval removal
+Pneumothorax,is,not present
+Cardiomediastinal silhouette,is,stable
+Right hemidiaphragm,shows,increased elevation
+Right basilar atelectasis,is,XXXX
+Left basilar consolidation,is,seen
+Left pleural effusions,are,seen
+Focal consolidation,is,not XXXX
+Pneumothorax,is,not XXXX
+Left PICC,is stable with,tip overlying the mid SVC
+Large XXXX feeding tube,courses below,the diaphragm
+Right pleural effusion,is,large
+Left lower lobe,shows,patchy infiltrate
+Pulmonary XXXX,are,normal
+Lung volumes,are,decreasing
+Bilateral pleural effusions,are,probable
+Both hemidiaphragms,show,elevation
+Right pleural effusion,is,XXXX XXXX
+Right IJ central venous catheter,has,tip overlying the inferior SVC
+Cardiac silhouette,is,normal size
+Mediastinal contour,is,normal
+Pulmonary vasculature,is,normal
+Right pleural effusion,is,small
+Lungs,are,without focal airspace disease
+Cardiac enlargement,is,borderline
+Vascular congestion,is present,without overt pulmonary edema
+Basilar atelectasis,is present with,XXXX posterior recess pleural effusions
+Findings,are consistent with,mild volume overload
+Cardiac silhouette,is,enlarged
+Cardiac silhouette enlargement,may be consistent with,mild cardiomegaly
+Cardiac silhouette enlargement,may be consistent with,small pericardial effusion
+Bibasilar atelectasis,is,mild
+Bibasilar infiltrates,are,mild
+Bilateral pleural effusions,are,probable small
+Right pleural effusion,is,greater than left
+Right upper lobe,shows,pleural thickening
+Right upper lobe,shows,loculated pleural fluid
+Tracheostomy tube,shows,interval removal
+Right subclavian central venous catheter,shows,interval removal
+Cardiac silhouette,is,mildly enlarged
+Bilateral costophrenic XXXX,show,blunting
+Right costophrenic XXXX blunting,is,greater than left
+Right upper lobe,shows,pleural thickening
+Right upper lobe,shows,loculated pleural fluid
+Right perihilar opacities,are,present
+Pneumothorax,is,not identified
+Left midlung,shows,mass
+Left base,shows,effusion
+Hiatal hernia,is,probable
+Heart size,appears,within normal limits
+Pulmonary vascularity,appears,within normal limits
+Left pleural effusion,is,present
+Left midlung zone,shows,mass density
+Mass density,measures,approximately 3.2 cm in diameter
+Air-fluid level,is present,behind the heart
+Air-fluid level,probably represents,hiatal hernia
+Right lung,shows,XXXX of atelectasis
+Spine,shows,osteopenia
+Spine,shows,XXXX deformities
+Multiple surgical clips,are,noted
+Pneumothorax,is,not seen
+Right pleural effusion,is,moderate
+Right lower lobe,shows,atelectasis
+Cardiac contour,is,normal
+Aorta,shows,atherosclerotic changes
+Left lung XXXX,is,clear
+Cardiomegaly,is,present
+Bilateral pleural effusions,are,present
+Right pleural effusion,is,larger than left
+Bibasilar airspace opacities,are,present
+Bibasilar airspace opacities,may represent,atelectasis
+Bibasilar airspace opacities,may represent,infiltrates
+Heart size,is,upper limits of normal
+Mediastinal contours,are,normal
+Pulmonary vasculature,is,normal
+Right pleural effusion,is,moderate
+Left pleural effusion,is,small
+Bibasilar airspace opacities,are,present
+Pneumothorax,is,not identified
+Acute osseous abnormality,is,not identified
+Heart size,is,normal
+Mediastinal contour,is,normal
+Pulmonary vasculature,is,normal
+Right pleural effusion,is,small
+Left pleural effusion,is,small
+Bibasilar airspace opacities,are,present
+Bibasilar airspace opacities,may represent,atelectasis
+Bibasilar airspace opacities,may represent,infiltrates
+Pneumothorax,is,not identified
+Acute osseous abnormality,is,not identified
+Heart size,is,normal
+Mediastinal contour,is,normal
+Pulmonary vasculature,is,normal
+Right pleural effusion,is,small
+Left pleural effusion,is,small
+Bibasilar airspace opacities,are,present
+Bibasilar airspace opacities,may represent,atelectasis
+Bibasilar airspace opacities,may represent,infiltrates
+Pneumothorax,is,not identified
+Acute osseous abnormality,is,not identified
+Heart size,is,normal
+Mediastinal contour,is,normal
+Pulmonary vasculature,is,normal
+Right pleural effusion,is,small
+Left pleural effusion,is,small
+Bibasilar airspace opacities,are,present
+Bibasilar airspace opacities,may represent,atelectasis
+Bibasilar airspace opacities,may represent,infiltrates
+Pneumothorax,is,not identified
+Acute osseous abnormality,is,not identified
+Heart size,is,normal
+Mediastinal contour,is,normal
+Pulmonary vasculature,is,normal
+Right pleural effusion,is,small
+Left pleural effusion,is,small
+Bibasilar airspace opacities,are,present
+Bibasilar airspace opacities,may represent,atelectasis
+Bibasilar airspace opacities,may represent,infiltrates
+Pneumothorax,is,not identified
+Acute osseous abnormality,is,not identified
+Heart size,is,normal
+Mediastinal contour,is,normal
+Pulmonary vasculature,is,normal
+Right pleural effusion,is,small
+Left pleural effusion,is,small
+Bibasilar airspace opacities,are,present
+Bibasilar airspace opacities,may represent,atelectasis
+Bibasilar airspace opacities,may represent,infiltrates
+Pneumothorax,is,not identified
+Acute osseous abnormality,is,not identified
+Heart size,is,normal
+Mediastinal contour,is,normal
+Pulmonary vasculature,is,normal
+Right pleural effusion,is,small
+Left pleural effusion,is,small
+Bibasilar airspace opacities,are,present
+Bibasilar airspace opacities,may represent,atelectasis
+Bibasilar airspace opacities,may represent,infiltrates
+Pneumothorax,is,not identified
+Acute osseous abnormality,is,not identified
+Heart size,is,normal
+Mediastinal contour,is,normal
+Pulmonary vasculature,is,normal
+Right pleural effusion,is,small
+Left pleural effusion,is,small
+Bibasilar airspace opacities,are,present
+Bibasilar airspace opacities,may represent,atelectasis
+Bibasilar airspace opacities,may represent,infiltrates
+Pneumothorax,is,not identified
+Acute osseous abnormality,is,not identified
+Heart size,is,normal
+Mediastinal contour,is,normal
+Pulmonary vasculature,is,normal
+Right pleural effusion,is,small
+Left pleural effusion,is,small
+Bibasilar airspace opacities,are,present
+Bibasilar airspace opacities,may represent,atelectasis
+Bibasilar airspace opacities,may represent,infiltrates
+Pneumothorax,is,not identified
+Acute osseous abnormality,is,not identified
+Heart size,is,normal
+Mediastinal contour,is,normal
+Pulmonary vasculature,is,normal
+Right pleural effusion,is,small
+Left pleural effusion,is,small
+Bibasilar airspace opacities,are,present
+Bibasilar airspace opacities,may represent,atelectasis or infiltrates
+Heart size,is,normal
+Mediastinal contour,is,normal
+Pulmonary vasculature,is,normal
+Right pleural effusion,is,small
+Left pleural effusion,is,small
+Bibasilar airspace opacities,are,present
+Bibasilar airspace opacities,may represent,atelectasis
+Bibasilar airspace opacities,may represent,infiltrates
+Pneumothorax,is,not identified
+Acute osseous abnormality,is,not identified
+Heart size,is,normal
+Mediastinal contour,is,normal
+Pulmonary vasculature,is,normal
+Right pleural effusion,is,small
+Left pleural effusion,is,small
+Bibasilar airspace opacities,are,present
+Bibasilar airspace opacities,may represent,atelectasis
+Bibasilar airspace opacities,may represent,infiltrates
+Pneumothorax,is,not identified
+Acute osseous abnormality,is,not identified
+Heart size,is,normal
+Mediastinal contour,is,normal
+Pulmonary vasculature,is,normal
+Right pleural effusion,is,small
+Left pleural effusion,is,small
+Bibasilar airspace opacities,are,present
+Bibasilar airspace opacities,may represent,atelectasis
+Bibasilar airspace opacities,may represent,infiltrates
+Pneumothorax,is,not identified
+Acute osseous abnormality,is,not identified
+Heart size,is,normal
+Mediastinal contour,is,normal
+Pulmonary vasculature,is,normal
+Right pleural effusion,is,small
+Left pleural effusion,is,small
+Bibasilar airspace opacities,are,present
+Bibasilar airspace opacities,may represent,atelectasis
+Bibasilar airspace opacities,may represent,infiltrates
+Pneumothorax,is,not identified
+Acute osseous abnormality,is,not identified
+Heart size,is,normal
+Mediastinal contour,is,normal
+Pulmonary vasculature,is,normal
+Right pleural effusion,is,small
+Left pleural effusion,is,small
+Bibasilar airspace opacities,are,present
+Bibasilar airspace opacities,may represent,atelectasis
+Bibasilar airspace opacities,may represent,infiltrates
+Pneumothorax,is,not identified
+Acute osseous abnormality,is,not identified
+Heart size,is,normal
+Mediastinal contour,is,normal
+Pulmonary vasculature,is,normal
+Right pleural effusion,is,small
+Left pleural effusion,is,small
+Bibasilar airspace opacities,are,present
+Bibasilar airspace opacities,may represent,atelectasis
+Bibasilar airspace opacities,may represent,infiltrates
+Pneumothorax,is,not identified
+Acute osseous abnormality,is,not identified
+Heart size,is,normal
+Mediastinal contour,is,normal
+Pulmonary vasculature,is,normal
+Right pleural effusion,is,small
+Left pleural effusion,is,small
+Bibasilar airspace opacities,are,present
+Bibasilar airspace opacities,may represent,atelectasis
+Bibasilar airspace opacities,may represent,infiltrates
+Pneumothorax,is,not identified
+Acute osseous abnormality,is,not identified
+Heart size,is,normal
+Mediastinal contour,is,normal
+Pulmonary vasculature,is,normal
+Right pleural effusion,is,small
+Left pleural effusion,is,small
+Bibasilar airspace opacities,are,present
+Bibasilar airspace opacities,may represent,atelectasis
+Bibasilar airspace opacities,may represent,infiltrates
+Pneumothorax,is,not identified
+Acute osseous abnormality,is,not identified
+Heart size,is,normal
+Mediastinal contour,is,normal
+Pulmonary vasculature,is,normal
+Right pleural effusion,is,small
+Left pleural effusion,is,small
+Bibasilar airspace opacities,are,present
+Bibasilar airspace opacities,may represent,atelectasis
+Bibasilar airspace opacities,may represent,infiltrates
+Pneumothorax,is,not identified
+Acute osseous abnormality,is,not identified
+Heart size,is,normal
+Mediastinal contour,is,normal
+Pulmonary vasculature,is,normal
+Right pleural effusion,is,small
+Left pleural effusion,is,small
+Bibasilar airspace opacities,are,present
+Bibasilar airspace opacities,may represent,atelectasis
+Bibasilar airspace opacities,may represent,infiltrates
+Pneumothorax,is,not identified
+Acute osseous abnormality,is,not identified

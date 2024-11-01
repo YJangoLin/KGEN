@@ -1,0 +1,2 @@
+# 训练知识嵌入模型
+python -u codes/run.py --do_train --cuda --do_valid --do_test --data_path data/myData --model RotatE -n 256 -b 1024 -d 1000 -g 24.0 -a 1.0 -adv -lr 0.0001 --max_steps 150000 -save models/RotatE --test_batch_size 16 -de

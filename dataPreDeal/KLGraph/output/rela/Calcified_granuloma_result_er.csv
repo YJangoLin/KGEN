@@ -1,0 +1,221 @@
+lEntity,Rela,rEntity
+aorta,is,tortuous
+aorta,is,calcified
+aorta,is,ectatic
+aorta,is,unfolded
+aorta,has,atherosclerotic calcifications
+aorta,is,dilated
+aorta,is,prominent
+aorta,has,aneurysmal enlargement
+heart,size,normal
+heart,size,enlarged
+heart,has,cardiomegaly
+heart,size,borderline
+heart,has,left ventricular enlargement
+lungs,are,clear
+lungs,have,emphysematous changes
+lungs,have,granulomas
+lungs,are,hyperinflated
+lungs,have,interstitial markings
+lungs,have,chronic changes
+lungs,have,COPD changes
+pleural effusion,is,absent
+pleural effusion,is,present
+pneumothorax,is,absent
+pulmonary edema,is,absent
+pulmonary edema,is,present
+thoracic spine,has,degenerative changes
+thoracic spine,has,osteophytes
+thoracic spine,has,spondylosis
+ribs,have,fractures
+mediastinum,is,normal
+mediastinum,is,widened
+pulmonary vasculature,is,normal
+pulmonary vasculature,is,engorged
+diaphragm,is,elevated
+diaphragm,is,flattened
+hiatal hernia,is,present
+sternotomy wires,are,present
+pacemaker,is,present
+ICD leads,are,present
+airspace consolidation,is,absent
+airspace consolidation,is,present
+atelectasis,is,present
+interstitial markings,are,present
+nodules,are,present
+calcified lymph nodes,are,present
+scoliosis,is,present
+kyphosis,is,present
+osteopenia,is,present
+pleural thickening,is,present
+pulmonary hypertension,may be,present
+costophrenic angles,are,blunted
+lung volumes,are,low
+lung volumes,are,normal
+trachea,is,midline
+surgical clips,are,present
+CABG,changes are,present
+aortic valve replacement,changes are,present
+vertebral bodies,have,wedge deformities
+clavicle,has,deformity
+azygos fissure,is,present
+pulmonary nodules,are,present
+pleural plaques,are,present
+bronchial wall thickening,is,present
+pulmonary fibrosis,may be,present
+lung scarring,is,present
+mediastinal lymphadenopathy,may be,present
+aortic aneurysm,may be,present
+tracheostomy tube,is,present
+mitral annular calcification,is,present
+apical scarring,is,present
+calcified granuloma,located in,lung
+calcified granuloma,located in,right upper lobe
+calcified granuloma,located in,left upper lobe
+calcified granuloma,located in,right lower lobe
+calcified granuloma,located in,left lower lobe
+calcified granuloma,located in,right midlung
+calcified granuloma,located in,left midlung
+calcified granuloma,located in,right hilar region
+calcified granuloma,located in,left hilar region
+calcified granuloma,located in,right apex
+calcified granuloma,located in,left apex
+calcified granuloma,located in,right base
+calcified granuloma,located in,left base
+calcified granuloma,located in,right middle lobe
+calcified granuloma,located in,lingula
+calcified granuloma,located in,right costophrenic angle
+calcified granuloma,located in,left costophrenic angle
+calcified granuloma,size,3 mm
+calcified granuloma,size,4 mm
+calcified granuloma,size,5 mm
+calcified granuloma,size,6 mm
+calcified granuloma,size,8 mm
+calcified granuloma,size,1.7 cm
+calcified granuloma,size,2 cm
+calcified granuloma,appearance,stable
+calcified granuloma,appearance,unchanged
+calcified granuloma,quantity,multiple
+calcified granuloma,quantity,scattered
+calcified granuloma,quantity,few
+heart,size,normal
+heart,size,enlarged
+heart,size,mildly enlarged
+heart,size,upper limits of normal
+heart,contour,normal
+lungs,condition,clear
+lungs,condition,hyperexpanded
+lungs,condition,emphysematous
+lungs,condition,well-expanded
+lungs,condition,low volume
+pleural effusion,status,absent
+pleural effusion,status,present
+pleural effusion,location,left
+pleural effusion,location,right
+pleural effusion,location,bilateral
+pleural effusion,size,small
+pneumothorax,status,absent
+pneumothorax,status,present
+thoracic spine,condition,degenerative changes
+thoracic spine,condition,osteophytes
+thoracic spine,condition,scoliosis
+aorta,condition,calcified
+aorta,condition,tortuous
+aorta,condition,ectatic
+mediastinal contour,appearance,normal
+mediastinal contour,appearance,widened
+pulmonary vasculature,appearance,normal
+pulmonary vasculature,appearance,prominent
+COPD,associated with,lung changes
+COPD,associated with,hyperinflation
+hiatal hernia,status,present
+hiatal hernia,size,small
+rib fractures,status,present
+rib fractures,location,left
+rib fractures,location,right
+rib fractures,healing status,healed
+sternotomy wires,status,present
+pacemaker,status,present
+pacemaker,location,left chest
+ICD leads,status,present
+lung nodules,status,present
+lung nodules,size,small
+lung nodules,appearance,noncalcified
+atelectasis,location,bibasilar
+atelectasis,location,left base
+atelectasis,location,right base
+osteopenia,location,spine
+osteopenia,location,ribs
+scoliosis,location,thoracic spine
+scoliosis,severity,mild
+calcified lymph nodes,location,hilar
+calcified lymph nodes,location,mediastinal
+pulmonary fibrosis,status,present
+pulmonary fibrosis,location,bilateral
+pleural thickening,location,apical
+pleural thickening,location,right
+pleural thickening,location,left
+cardiomegaly,status,present
+cardiomegaly,degree,mild
+atherosclerosis,location,aorta
+atherosclerosis,severity,moderate
+emphysema,associated with,lung changes
+emphysema,location,upper lobes
+bronchial wall thickening,status,present
+bronchial wall thickening,location,diffuse
+interstitial markings,location,bilateral
+interstitial markings,appearance,increased
+kyphosis,location,thoracic spine
+kyphosis,severity,mild
+pectus excavatum,status,present
+pectus carinatum,status,present
+diaphragm,position,elevated
+diaphragm,position,normal
+trachea,position,midline
+trachea,position,deviated
+costophrenic angles,appearance,sharp
+costophrenic angles,appearance,blunted
+bony structures,appearance,intact
+bony structures,appearance,degenerative changes
+soft tissues,appearance,normal
+soft tissues,appearance,swelling
+calcified granuloma,associated with,previous infection
+calcified granuloma,associated with,tuberculosis
+calcified granuloma,associated with,histoplasmosis
+calcified granuloma,follow-up,recommended
+calcified granuloma,follow-up,not necessary
+calcified granuloma,clinical significance,benign
+calcified granuloma,clinical significance,requires monitoring
+calcified granuloma,differential diagnosis,includes malignancy
+calcified granuloma,differential diagnosis,includes sarcoidosis
+calcified granuloma,differential diagnosis,includes fungal infection
+chest radiograph,quality,adequate
+chest radiograph,view,PA
+chest radiograph,view,lateral
+chest radiograph,comparison,previous study
+pulmonary arteries,appearance,normal
+pulmonary arteries,appearance,enlarged
+bronchi,appearance,normal
+bronchi,appearance,thickened walls
+lung volumes,status,normal
+lung volumes,status,decreased
+lung volumes,status,increased
+pleural plaques,status,present
+pleural plaques,location,bilateral
+pleural plaques,associated with,asbestos exposure
+air bronchograms,status,present
+air bronchograms,location,right lower lobe
+air bronchograms,associated with,pneumonia
+cardiomediastinal silhouette,appearance,normal
+cardiomediastinal silhouette,appearance,enlarged
+calcified granuloma,density,high
+calcified granuloma,shape,round
+calcified granuloma,shape,oval
+calcified granuloma,margins,well-defined
+calcified granuloma,distribution,random
+calcified granuloma,distribution,upper lobe predominant
+calcified granuloma,temporal change,stable
+calcified granuloma,temporal change,increased in size
+calcified granuloma,temporal change,decreased in size
+calcified granuloma,associated findings,none
+calcified granuloma,associated findings,surrounding inflammation

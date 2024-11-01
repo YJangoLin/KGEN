@@ -1,0 +1,815 @@
+0	mastectomy
+1	noted
+2	airspace consolidation
+3	fibrosis
+4	atherosclerosis
+5	continued
+6	atherosclerotic changes
+7	significant interval decrease
+8	lobectomy
+9	Swan-Ganz catheter
+10	absent
+11	not hyperinflated
+12	azygoesophageal recess
+13	lung nodule
+14	pulmonary vessels
+15	lung apices
+16	deformity
+17	aneurysmal enlargement
+18	not distorted
+19	subcutaneous emphysema
+20	trachea
+21	opacities
+22	ectatic
+23	seen
+24	free of effusions
+25	Right lower lobe infiltrate
+26	Focal airspace disease
+27	pulmonary masses
+28	upper normal
+29	calcified lymph nodes
+30	XXXX lumen
+31	without focal airspace disease
+32	lymphangitic carcinomatosis
+33	deep
+34	normal in contour
+35	anterior junction line
+36	pulmonary sequestration
+37	lung abscess
+38	2 cm
+39	normal size
+40	hyperinflated
+41	no evidence
+42	Right subclavian central venous catheter
+43	Cardiac enlargement
+44	right upper extremity
+45	basilar pulmonary interstitial edema
+46	XXXX deformities
+47	left distal
+48	pneumonia
+49	discoid atelectasis
+50	Right basilar consolidation
+51	hilar contours
+52	aortic stent
+53	appreciated
+54	atelectasis
+55	heart size
+56	right lower lobe
+57	not narrowed
+58	cardiophrenic recesses
+59	no reticulations
+60	mediastinal shift
+61	interstitial lung disease
+62	pulmonary scars
+63	mediastinal
+64	left hemidiaphragm
+65	free of fluid
+66	degenerative changes
+67	free of blunting
+68	right internal jugular
+69	posterior mediastinum
+70	hamartoma
+71	mass density
+72	bronchial walls
+73	loculated pleural fluid
+74	right lung
+75	no sclerotic lesions
+76	Bibasilar interstitial infiltrates
+77	Costophrenic XXXX
+78	lung base
+79	epicardial fat pad
+80	pulmonary vasculature
+81	Pleural effusions
+82	hilar calcification
+83	of normal width
+84	rib fractures
+85	residual small
+86	consistent with CHF
+87	subsegmental
+88	atrial enlargement
+89	free of atelectasis
+90	right atrial border
+91	no dilatation
+92	tortuous calcified
+93	interstitial edema
+94	normal aeration
+95	acute disease
+96	XXXX XXXX atelectasis
+97	interval removal
+98	splenic granulomas
+99	tracheal deviation
+100	lingula
+101	tracheal narrowing
+102	Pneumothorax
+103	Bilateral costophrenic XXXX
+104	pulmonary artery knob
+105	tenting
+106	Bibasilar airspace opacities
+107	tracheal air shadow
+108	lung hila
+109	subcarinal
+110	narrowed
+111	atelectasis or infiltrates
+112	lung mass
+113	well-defined
+114	interstitial opacities
+115	masses
+116	bone lesions
+117	air trapping
+118	elevated
+119	includes malignancy
+120	questionable small
+121	right basilar
+122	not blunted
+123	normal variant
+124	no opacities
+125	crowded
+126	post surgery
+127	elevation
+128	not tortuous
+129	indistinct pulmonary interstitium
+130	possible
+131	Cardiomediastinal silhouette
+132	pectus excavatum
+133	Left midlung zone
+134	normal
+135	known
+136	normal caliber
+137	apical
+138	normal course
+139	slight
+140	enlarged
+141	at normal levels
+142	hyperaerated
+143	persistent small
+144	right ventricular border
+145	left 9th
+146	Bilateral effusions
+147	loculated
+148	Interstitial edema
+149	no focal opacities
+150	dialysis catheter
+151	lung lobe
+152	left apical
+153	patent
+154	no cavitary lesions
+155	2.2 x 1.6 cm
+156	fractures
+157	free of bullae
+158	pericardial fat pad
+159	Bibasilar airspace disease
+160	pneumothorax
+161	free air
+162	apical scarring
+163	nasogastric tube
+164	thoracic spine
+165	not widened
+166	Left lung base
+167	right apex
+168	right hilar region
+169	previous
+170	cardiac size
+171	acute abnormality
+172	pulmonary hypertension
+173	Congestive heart failure
+174	well-aerated
+175	normal bifurcation
+176	normal distribution
+177	kerley B lines
+178	Acute bone abnormality
+179	smooth
+180	air bronchograms
+181	sternotomy
+182	Left base airspace disease
+183	pneumoperitoneum
+184	T12-L1 vertebrae
+185	right midlung
+186	left lung base
+187	no abnormal contours
+188	pulmonary fibrosis
+189	cephalization of vessels
+190	sharp
+191	bronchial cuffing
+192	left lung
+193	left chest wall
+194	wedge deformities
+195	preserved
+196	lung lobes
+197	thoracic
+198	left atrial appendage
+199	annular calcification
+200	hydropneumothorax
+201	lung transplant
+202	lung changes
+203	cardiopulmonary abnormality
+204	no thickening
+205	improvement
+206	right base
+207	stents
+208	no masses
+209	shoulder girdles
+210	alveolar opacities
+211	Hiatal hernia
+212	Pulmonary XXXX
+213	scoliosis
+214	thickened walls
+215	interstitial
+216	Right hemidiaphragm
+217	fixation
+218	normal bronchovascular markings
+219	hilar
+220	pleural space
+221	parenchymal nodules
+222	retrocardiac space
+223	single
+224	3 mm
+225	bronchovascular crowding
+226	present
+227	hiatus hernia
+228	pleural reflections
+229	not enlarged
+230	no destructive lesions
+231	lung fields
+232	flattened
+233	coronary arteries
+234	ICD leads
+235	pulmonary nodules
+236	airspace opacities
+237	ground-glass opacities
+238	gynecomastia
+239	chilaiditi syndrome
+240	larger than right
+241	hemidiaphragm
+242	Right basilar atelectasis
+243	old
+244	left
+245	lung parenchyma
+246	bilateral base
+247	Pulmonary vascularity
+248	old fracture
+249	none
+250	pulmonary conus
+251	ribs
+252	aortic valve
+253	low
+254	left upper lobe
+255	Right lung airspace disease
+256	thoracic aorta
+257	Cardiomegaly
+258	limited due to obscured heart XXXX
+259	cardiac defibrillator
+260	no consolidation
+261	AICD
+262	silicosis
+263	normal contour
+264	azygos vein
+265	left upper quadrant
+266	nodular opacities
+267	Tracheostomy tube
+268	rib notching
+269	Left base atelectatic change
+270	colon and liver
+271	free of infiltrates
+272	Chronic interstitial lung disease
+273	right hilum
+274	Bilateral large pleural effusion
+275	lung cysts
+276	nodule
+277	left ventricular enlargement
+278	Vascular congestion
+279	greater than left
+280	mild
+281	endotracheal tube
+282	tortuosity
+283	4 mm
+284	emphysematous
+285	Right effusion
+286	unchanged
+287	shoulder
+288	posterior junction line
+289	enlarged pulmonary arteries
+290	normal translucency
+291	probable
+292	multiple
+293	not aneurysmal
+294	Bibasilar atelectasis
+295	pleural thickening
+296	mass
+297	Lung bases
+298	pulmonary alveolar proteinosis
+299	central venous catheter
+300	pulmonary artery
+301	Left lung bases
+302	Acute osseous abnormality
+303	osteophytes
+304	thoracolumbar
+305	central
+306	effusion
+307	soft tissue calcification
+308	6 mm
+309	Left basilar airspace disease
+310	previous infection
+311	thickened
+312	patchy
+313	normal in distribution
+314	left hilar region
+315	larger
+316	basilar
+317	Acute bony findings
+318	mediastinal width
+319	congested
+320	Left bibasilar opacity
+321	epicardial fat pads
+322	upper abdomen
+323	biapical
+324	aortic knob
+325	Right pleural effusion
+326	Right chest tube
+327	mitral annular calcification
+328	right costophrenic angle
+329	not identified
+330	atherosclerotic
+331	possible old injury
+332	flail chest
+333	right hilar
+334	ectasia
+335	breast implants
+336	aorta
+337	pulmonary edema
+338	spine
+339	above carina
+340	no calcifications
+341	fracture
+342	fissures
+343	eventration
+344	bronchial tree
+345	fluid in XXXX fissure
+346	costophrenic sulci
+347	increased
+348	spondylosis
+349	helpful
+350	lobar pneumonia
+351	heart
+352	airspace disease
+353	hilar lymph nodes
+354	pleural effusion
+355	minimal blunting
+356	hyperinflated lungs
+357	Pulmonary vasculature
+358	retrosternal space
+359	widened
+360	clavicle
+361	bibasilar
+362	blunting
+363	hilar regions
+364	no lymphadenopathy
+365	wedge resection
+366	no compression fractures
+367	coronary artery bypass grafts
+368	opacity
+369	not indistinct
+370	Mediastinal contour
+371	emphysema
+372	engorged
+373	Mediastinal contours
+374	hilar shadows
+375	no acute abnormalities
+376	Right IJ central venous catheter
+377	persistent
+378	centrally located
+379	Mediastinum
+380	midline
+381	mediastinal lymph node
+382	calcified granuloma
+383	symmetric
+384	resection
+385	chest wall
+386	abnormal
+387	empyema
+388	Left lung base airspace disease
+389	no foreign bodies
+390	osseous structures
+391	XXXX in left lateral costophrenic recess
+392	mediastinal lymphadenopathy
+393	Pulmonary edema
+394	bronchopleural fistula
+395	free of masses
+396	no honeycombing
+397	left chest
+398	obscured
+399	includes fungal infection
+400	XXXX XXXX
+401	tuberculosis
+402	chronic inflammatory change
+403	cystic fibrosis
+404	mediastinal widening
+405	Inflammatory defibrillator
+406	mediastinal fat
+407	mildly enlarged
+408	Right lower lobe
+409	cholecystectomy clips
+410	not pruned
+411	low volume
+412	greater than right
+413	right upper lobe
+414	dual-lumen
+415	stable appearance
+416	bronchial wall thickening
+417	kyphosis
+418	empyema with bronchopleural fistula
+419	cardiac silhouette
+420	Right lung base
+421	not deviated
+422	not displaced
+423	calcified granulomas
+424	aortic aneurysm
+425	left lower lobe
+426	evolving pneumonia
+427	minor fissures
+428	cardiac calcification
+429	possibly sympathetic from pancreatitis
+430	normal alignment
+431	upper limits of normal
+432	tortuous
+433	hiatal hernia
+434	costophrenic XXXX
+435	central airways
+436	minimal residual
+437	no pericardial effusion
+438	aneurysm
+439	sternum
+440	scapulae
+441	lung periphery
+442	benign
+443	hypoventilated
+444	not dilated
+445	pleural surfaces
+446	Left lower lung
+447	large
+448	lungs
+449	old hematoma
+450	not prominent
+451	no fractures
+452	maintained
+453	mediastinal contours
+454	within normal limits
+455	cardiac borders
+456	Right hemithorax
+457	not XXXX
+458	coronary artery
+459	ICD
+460	Visualized XXXX of the chest XXXX
+461	stable
+462	lung infiltrates
+463	soft tissue structures
+464	pleural spaces
+465	pneumonectomy
+466	old empyema
+467	left arm
+468	low volumes
+469	mediastinum
+470	granulomatous disease
+471	diaphragm
+472	pulmonary XXXX
+473	Bibasilar infiltrates
+474	left base
+475	sarcoidosis
+476	costophrenic angles
+477	Left effusion
+478	Left basilar consolidation
+479	no soft tissue masses
+480	interval improvement bilaterally
+481	bronchiolitis obliterans
+482	histoplasmosis
+483	not thickened
+484	Lungs
+485	Right pleural fusion
+486	no acute fractures
+487	pulmonary arteries
+488	lung granuloma
+489	ventricular enlargement
+490	8 mm
+491	possibly from pleuritis
+492	at normal level
+493	bronchiectasis
+494	calcified
+495	not decreased
+496	intervertebral disc spaces
+497	hilar adenopathy
+498	Acute bony abnormalities
+499	increased elevation
+500	interval improvement in aeration
+501	bullae
+502	lung volumes
+503	mediastinal structures
+504	unremarkable
+505	Round opacity
+506	no abnormalities
+507	granuloma
+508	pulmonary arterial hypertension
+509	chronic changes
+510	tracheal air column
+511	coarsened interstitial markings
+512	lymph nodes
+513	Air-fluid level
+514	Aorta
+515	lung inflation
+516	normal branching
+517	Bilateral costophrenic XXXX blunting
+518	Loculated right pleural fusion
+519	Pleural spaces
+520	includes sarcoidosis
+521	adequate
+522	chest
+523	normal width
+524	dilated
+525	costophrenic recesses
+526	interstitial markings
+527	normal in appearance
+528	no filling defects
+529	prior tuberculosis
+530	Spine
+531	right lateral
+532	severe
+533	minimal
+534	main pulmonary arteries
+535	Right lower lobe opacification
+536	gallstones
+537	pulmonary sarcoidosis
+538	Right middle lobe opacification
+539	atelectatic change
+540	surrounding inflammation
+541	Left base
+542	Air-fluid levels
+543	right chest wall
+544	fluid
+545	DISH
+546	asbestos exposure
+547	unfolded
+548	Patchy bibasilar opacities
+549	Both costophrenic XXXX
+550	Pulmonary vascular congestion
+551	interstitial lines
+552	scapula
+553	aortic arch
+554	honeycombing
+555	interval improvement
+556	neck
+557	costal cartilage calcification
+558	pulmonary infarction
+559	right jugular
+560	bone mineralization
+561	Heart size assessment
+562	thickening
+563	not crowded
+564	sternal wires
+565	surgical changes
+566	indistinct vascular margination
+567	pacemaker leads
+568	diffuse
+569	alveolar spaces
+570	displaced
+571	hilar lymph node
+572	Bibasilar opacity
+573	reticular opacities
+574	diaphragmatic contours
+575	possible developmental anomaly
+576	left lateral
+577	yes
+578	pleural plaques
+579	bowel gas pattern
+580	Lung volumes
+581	not present
+582	cervical ribs
+583	stable position
+584	lung scarring
+585	right humeral
+586	free of thickening
+587	no
+588	bone density
+589	normal in size
+590	cardiomegaly
+591	left midlung
+592	lung bases
+593	areas of scarring
+594	bilateral
+595	normal size and shape
+596	Left midlung
+597	pulmonary vascular congestion
+598	enlarged cardiac silhouette
+599	improved aeration
+600	bony thorax
+601	bronchogenic cyst
+602	carina
+603	Aeration of lung bases
+604	clips
+605	normal cardiac borders
+606	no ground-glass opacities
+607	active disease
+608	not seen
+609	pulmonary congestion
+610	not congested
+611	tracheostomy tube
+612	moderate
+613	nodules
+614	hemidiaphragms
+615	splenic calcification
+616	pulmonary veins
+617	humerus
+618	no pleural thickening
+619	limited
+620	present and unchanged
+621	Heart size
+622	post
+623	CT scan with IV contrast
+624	decreased
+625	lung vascularity
+626	Right perihilar opacities
+627	alveolar edema
+628	vertebral body
+629	main bronchi
+630	pneumatoceles
+631	thoracic cage
+632	bony structures
+633	infiltrate
+634	Left lung
+635	azygos fissure
+636	not opacified
+637	prominent
+638	no lytic lesions
+639	not engorged
+640	noncalcified
+641	in normal position
+642	right atrial enlargement
+643	two air-fluid levels
+644	bronchopneumonia
+645	azygos lobe
+646	clavicles
+647	bones
+648	lung apex
+649	Both hemidiaphragms
+650	not elevated
+651	right ventricular enlargement
+652	diaphragms
+653	Cardiac contour
+654	pneumopericardium
+655	Right costophrenic XXXX blunting
+656	upper lobes
+657	probable mild
+658	clear
+659	lung metastases
+660	markers
+661	not shifted
+662	Left lung XXXX
+663	vertebral bodies
+664	clearing
+665	XXXX
+666	major fissures
+667	free of nodules
+668	Right lung opacities
+669	left costophrenic angle
+670	lung markings
+671	left paraesophageal
+672	aspiration
+673	not increased
+674	adenopathy
+675	interstitial pattern
+676	mitral valve
+677	right upper quadrant
+678	free of fibrosis
+679	not redistributed
+680	pacemaker
+681	Left subclavian central venous catheter
+682	rib cage
+683	right
+684	sternotomy wires
+685	rib fracture
+686	asbestosis
+687	abnormality
+688	of normal caliber
+689	bilateral pleural fluid
+690	granulomas
+691	patchy infiltrate
+692	cardiomediastinal silhouette
+693	Heart
+694	hyperinflation
+695	hypoinflated
+696	pulmonary interstitium
+697	lung nodules
+698	borderline
+699	1.7 cm
+700	Right lung
+701	Bilateral pleural effusions
+702	normal mineralization
+703	symmetrical
+704	scarring
+705	chronic lung disease
+706	COPD
+707	deviated
+708	first ribs
+709	in place
+710	no discoid atelectasis
+711	rib
+712	Cardiac silhouette
+713	blunted
+714	left hilar
+715	calcified lung nodules
+716	pulmonary vascularity
+717	right paratracheal
+718	pulmonary arteriovenous malformation
+719	left lateral costophrenic recess
+720	infiltrates
+721	probable small
+722	pericardial effusion
+723	Multiple surgical clips
+724	small
+725	swelling
+726	CABG
+727	intrapulmonary
+728	aortic XXXX
+729	compression fracture
+730	atherosclerotic calcifications
+731	Heart XXXX
+732	pneumomediastinum
+733	cavitary lesions
+734	chest tube
+735	left atrial enlargement
+736	22 x 14 mm
+737	right ventricle
+738	not obliterated
+739	esophagus
+740	descending thoracic
+741	right paratracheal stripe
+742	heart borders
+743	chronic bronchitis
+744	soft tissues
+745	requires monitoring
+746	tip overlying the inferior SVC
+747	ascending
+748	mediastinal contour
+749	bronchi
+750	prosthetic
+751	PICC line
+752	thyroid enlargement
+753	hilar structures
+754	enlarged but unchanged
+755	lymphoma
+756	implantable cardioverter-defibrillator
+757	Poly vasculature
+758	lung
+759	no calcified lymph nodes
+760	normal in caliber
+761	not obscured
+762	vascular congestion
+763	hilar enlargement
+764	focal consolidation
+765	hyperexpanded
+766	mild blunting bilaterally
+767	moderately enlarged
+768	Right lung bases
+769	compression fractures
+770	Left pleural effusion
+771	cardiophrenic angles
+772	Right mid lung consolidation
+773	osteopenia
+774	distinct
+775	no reticular opacities
+776	larger than left
+777	Right upper lobe
+778	right middle lobe
+779	left apex
+780	expanded
+781	tracheal dilation
+782	anterior mediastinum
+783	Bibasilar opacities
+784	Left lower lobe
+785	present without overt heart failure
+786	Focal consolidation
+787	cardiac apex
+788	cardiothoracic ratio
+789	peribronchial cuffing
+790	emphysematous changes
+791	Left-sided XXXX central line
+792	vascular pedicle
+793	surgical clips
+794	diaphragmatic eventration
+795	pectus carinatum
+796	XXXX of atelectasis
+797	left ventricular border
+798	normal tapering
+799	no change
+800	diaphragmatic paralysis
+801	aortopulmonary window
+802	decreasing
+803	Left lung aeration
+804	consolidation
+805	hilar calcifications
+806	5 mm
+807	well-expanded
+808	no eventration
+809	no pleural plaques
+810	Left pleural effusions
+811	Left-sided central venous catheter
+812	retrosternal clear space
+813	intact
+814	COPD changes
