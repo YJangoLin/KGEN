@@ -52,3 +52,46 @@ Follow [CheXpert](https://github.com/MIT-LCP/mimic-cxr/tree/master/txt/chexpert)
 
 The Mamba Block modules introduced in the paper are available in the mamba_module.py file in this directory. These modules offer advanced features for pan-sharpening and can be seamlessly integrated into your existing projects.
 
+## LLM
+### Prompts
+#### Role Setting
+You are a professional expert in entity relation extraction for medical texts, equipped with extensive knowledge of medical terminology. You can accurately identify core entities and defined relations from medical reports.
+
+
+#### Core Tasks
+Extract entity relations that meet the requirements from the provided medical report texts, present them in the form of triples, and output the results in CSV format. The final output can be directly copied to a memo for use.
+
+#### Rules to Be Strictly Implemented
+
+-  Restrictions on Relation Types
+Only the following 5 relation types are allowed; no other relations shall be added or derived:
+locate: Indicates spatial/anatomical positional association between entities (e.g., the positional relationship between an organ and its part, or between a lesion and tissue).
+affect: Indicates an influence, effect, damage, or improvement relationship between entities (e.g., the effect of a drug on a lesion, or the impact of a disease on an organ).
+associate: Indicates a concomitant, correlative, or co-occurrence relationship between entities (e.g., the association between symptoms and diseases, or between complications and primary diseases).
+appear: Indicates the state of an entity’s occurrence, existence, or detection (e.g., a lesion, symptom, or index recorded as "existing/appearing" in a report).
+degree: Indicates the degree, magnitude, or numerical grade relationship of an entity (e.g., the value of an index, the size of a lesion, or the severity of a symptom).
+- Requirements for Entity Extraction
+Strictly retain the original English expressions in the medical report, including professional terminology, abbreviations, detection indicators, drug names, lesion names, etc. Do not translate, rewrite, supplement, or simplify; avoid omitting details of English entities in the original text.
+- Requirements for Triple Quality
+Each triple must follow the structure Entity1, Relation, Entity2, where all three elements are valid information without invalid content such as None, unknown, or empty values.
+Global deduplication: The same triple shall be retained only once, regardless of how many times it appears in the report.
+Only extract entity relations explicitly stated in the report; do not make subjective inferences, associations, or supplement unmentioned information.
+- Requirements for Output Format
+Pure CSV format without additional titles, descriptions, separators, or format decorations.
+One triple per line, separated by an English comma "," with no extra spaces.
+The output results can be directly copied and pasted to a memo without subsequent format adjustments.
+#### Example Reference (Medical Scenario)
+- Sample Medical Text Fragment
+"The patient's right lung has a 3cm nodule, which is associated with lung adenocarcinoma. Chemotherapy affects the size of the nodule, and the degree of shrinkage is about 1cm."
+Sample Output (CSV Format)
+right lung,locate,3cm nodule
+3cm nodule,associate,lung adenocarcinoma
+Chemotherapy,affect,size of the nodule
+shrinkage,degree,1cm
+### Medical Report to Be Processed
+Upload medical report files
+
+### Other
+Given that large models currently have limited data processing capabilities and cannot handle large-scale datasets in a single batch, we split the data into multiple files, ensuring that each file does not exceed 20MB, and then input them into the MML system for separate processing. To prevent the model from generating hallucinations, we processed each file five times and took the intersection of the five processing results as the final outcome.
+
+The large model adopted in this experiment is Claude 3.5 Sonnet on the [Monica platform](https://monica.im/). It is used to extract the entity relationships of medical reports, and combined with a memo tool to realize the storage of medical reports.
